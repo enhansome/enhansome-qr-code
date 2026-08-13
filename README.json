@@ -1,0 +1,239 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Apps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "qrcp",
+          "description": "Transfer files over Wi-Fi from your computer to a mobile device by scanning a QR code without leaving the terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-18T20:44:55Z",
+            "owner": "claudiodangelis",
+            "repo": "qrcp",
+            "stars": 10495
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qr-filetransfer",
+          "description": "Transfer files over Wi-Fi between your computer and your smartphone from the terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-10T07:21:35Z",
+            "owner": "sdushantha",
+            "repo": "qr-filetransfer",
+            "stars": 1029
+          }
+        }
+      ],
+      "title": "File Transfer"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "qrscan",
+          "description": "Scan a QR code in the terminal using the system camera or a given image.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-07-03T07:47:00Z",
+            "owner": "sayanarijit",
+            "repo": "qrscan",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qrap",
+          "description": "Generate a QR code payload for Wi-Fi access point credentials.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2020-11-11T19:01:43Z",
+            "owner": "make-github-pseudonymous-again",
+            "repo": "qrap",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spqr",
+          "description": "Generate a QR code payload for initiating a SEPA transfer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2020-11-11T21:04:18Z",
+            "owner": "make-github-pseudonymous-again",
+            "repo": "spqr",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "CLI"
+    },
+    {
+      "description": "In this section means the library allows to read QR codes and means that the library allows to generate QR codes.",
+      "items": [],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "instascan",
+          "description": "HTML5 QR code scanner using your webcam.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-12-15T13:21:36Z",
+            "owner": "schmich",
+            "repo": "instascan",
+            "stars": 3023
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qrious",
+          "description": "Pure JavaScript library for QR code generation using canvas.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-18T16:43:55Z",
+            "owner": "airmrcr",
+            "repo": "qrious",
+            "stars": 1617
+          }
+        }
+      ],
+      "title": "JavaScript"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BGAQRCode-Android",
+          "description": "QR code reader and generator written in C.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-11T00:39:05Z",
+            "owner": "bingoogolapple",
+            "repo": "BGAQRCode-Android",
+            "stars": 8012
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AwesomeQRCode (Kotlin)",
+          "description": "An awesome QR code generator for Android (can produce GIFs).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2023-12-02T14:39:24Z",
+            "owner": "sumimakito",
+            "repo": "AwesomeQRCode",
+            "stars": 1916
+          }
+        }
+      ],
+      "title": "Android"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "endroid/qr-code",
+          "description": "QR code generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-05T07:02:55Z",
+            "owner": "endroid",
+            "repo": "qr-code",
+            "stars": 4800
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simple-qrcode",
+          "description": "An easy-to-use PHP QR code generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-08-12T08:42:45Z",
+            "owner": "SimpleSoftwareIO",
+            "repo": "simple-qrcode",
+            "stars": 2905
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BaconQRCode",
+          "description": "QR code generator for PHP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-04-05T21:07:25Z",
+            "owner": "Bacon",
+            "repo": "BaconQrCode",
+            "stars": 2087
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "php-qrcode-detector-decoder",
+          "description": "PHP library to detect and decode QR codes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-07-10T12:54:21Z",
+            "owner": "khanamiryan",
+            "repo": "php-qrcode-detector-decoder",
+            "stars": 1414
+          }
+        }
+      ],
+      "title": "PHP"
+    },
+    {
+      "description": "Your contributions are always welcome! Please take a look at the contribution guidelines.\nIf you have any question about this opinionated list, do not hesitate to open an issue.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:28:16.045Z",
+    "original_repository": "make-github-pseudonymous-again/awesome-qr-code",
+    "original_repository_sha": "d04e5493dc6ac5060031779777e2490e6dcbe5fe",
+    "enhanced_repository": "enhansome/enhansome-qr-code",
+    "enhanced_repository_description": null,
+    "title": "Awesome QR Code with stars"
+  }
+}
