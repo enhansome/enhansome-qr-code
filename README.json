@@ -19,7 +19,7 @@
             "last_commit": "2026-05-18T20:44:55Z",
             "owner": "claudiodangelis",
             "repo": "qrcp",
-            "stars": 10495
+            "stars": 10496
           }
         },
         {
@@ -106,7 +106,7 @@
             "last_commit": "2021-12-15T13:21:36Z",
             "owner": "schmich",
             "repo": "instascan",
-            "stars": 3023
+            "stars": 3022
           }
         },
         {
@@ -174,7 +174,7 @@
             "last_commit": "2026-02-05T07:02:55Z",
             "owner": "endroid",
             "repo": "qr-code",
-            "stars": 4800
+            "stars": 4801
           }
         },
         {
@@ -188,7 +188,7 @@
             "last_commit": "2024-08-12T08:42:45Z",
             "owner": "SimpleSoftwareIO",
             "repo": "simple-qrcode",
-            "stars": 2905
+            "stars": 2904
           }
         },
         {
@@ -202,7 +202,7 @@
             "last_commit": "2026-04-05T21:07:25Z",
             "owner": "Bacon",
             "repo": "BaconQrCode",
-            "stars": 2087
+            "stars": 2086
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2025-07-10T12:54:21Z",
             "owner": "khanamiryan",
             "repo": "php-qrcode-detector-decoder",
-            "stars": 1414
+            "stars": 1413
           }
         }
       ],
@@ -229,7 +229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:28:16.045Z",
+    "last_updated": "2026-08-13T15:17:36.873Z",
     "original_repository": "make-github-pseudonymous-again/awesome-qr-code",
     "original_repository_sha": "d04e5493dc6ac5060031779777e2490e6dcbe5fe",
     "enhanced_repository": "enhansome/enhansome-qr-code",

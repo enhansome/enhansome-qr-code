@@ -25,7 +25,7 @@ A curated list of awesome QR code libraries, software and resources.
 
 ### File Transfer
 
-* [qrcp](https://github.com/claudiodangelis/qrcp) ⭐ 10,495 | 🐛 12 | 🌐 Go | 📅 2026-05-18 - Transfer files over Wi-Fi from your computer to a mobile device by scanning a QR code without leaving the terminal.
+* [qrcp](https://github.com/claudiodangelis/qrcp) ⭐ 10,496 | 🐛 12 | 🌐 Go | 📅 2026-05-18 - Transfer files over Wi-Fi from your computer to a mobile device by scanning a QR code without leaving the terminal.
 * [qr-filetransfer](https://github.com/sdushantha/qr-filetransfer) ⭐ 1,029 | 🐛 5 | 🌐 Python | 📅 2024-04-10 - Transfer files over Wi-Fi between your computer and your smartphone from the terminal.
 
 ## CLI
@@ -47,7 +47,7 @@ that the library allows to generate QR codes.
 
 ### C, C++, JavaScript, Python, Java, Rust
 
-* [QR-Code-generator `W`](https://github.com/nayuki/QR-Code-generator) ⭐ 6,708 | 🐛 12 | 🌐 Java | 📅 2025-01-23 - High-quality QR code generator library in Java, TypeScript/JavaScript, Python, C++, C, Rust.
+* [QR-Code-generator `W`](https://github.com/nayuki/QR-Code-generator) ⭐ 6,709 | 🐛 12 | 🌐 Java | 📅 2025-01-23 - High-quality QR code generator library in Java, TypeScript/JavaScript, Python, C++, C, Rust.
 
 ### Java
 
@@ -55,12 +55,12 @@ that the library allows to generate QR codes.
 
 ### JavaScript
 
-* [instascan `R`](https://github.com/schmich/instascan) ⭐ 3,023 | 🐛 192 | 🌐 JavaScript | 📅 2021-12-15 - HTML5 QR code scanner using your webcam.
+* [instascan `R`](https://github.com/schmich/instascan) ⭐ 3,022 | 🐛 192 | 🌐 JavaScript | 📅 2021-12-15 - HTML5 QR code scanner using your webcam.
 * [qrious `W`](https://github.com/neocotic/qrious) ⭐ 1,617 | 🐛 44 | 🌐 JavaScript | 📅 2024-06-18 - Pure JavaScript library for QR code generation using canvas.
 
 ### TypeScript
 
-* [jsQR `R`](https://github.com/cozmo/jsQR) ⭐ 4,022 | 🐛 97 | 🌐 TypeScript | 📅 2026-05-15 - A pure JavaScript QR code reading library.
+* [jsQR `R`](https://github.com/cozmo/jsQR) ⭐ 4,023 | 🐛 97 | 🌐 TypeScript | 📅 2026-05-15 - A pure JavaScript QR code reading library.
 
 ### React
 
@@ -72,7 +72,7 @@ that the library allows to generate QR codes.
 
 ### Vue
 
-* [vue-qrcode-reader `R`](https://github.com/gruhn/vue-qrcode-reader) ⭐ 2,308 | 🐛 4 | 🌐 TypeScript | 📅 2026-07-12 - A set of Vue.js components for detecting and decoding QR codes.
+* [vue-qrcode-reader `R`](https://github.com/gruhn/vue-qrcode-reader) ⭐ 2,307 | 🐛 4 | 🌐 TypeScript | 📅 2026-07-12 - A set of Vue.js components for detecting and decoding QR codes.
 
 ### Python
 
@@ -101,14 +101,14 @@ that the library allows to generate QR codes.
 
 ### PHP
 
-* [endroid/qr-code `W`](https://github.com/endroid/qr-code) ⭐ 4,800 | 🐛 13 | 🌐 PHP | 📅 2026-02-05 - QR code generator.
-* [simple-qrcode `W`](https://github.com/SimpleSoftwareIO/simple-qrcode) ⭐ 2,905 | 🐛 58 | 🌐 PHP | 📅 2024-08-12 - An easy-to-use PHP QR code generator.
-* [BaconQRCode `W`](https://github.com/Bacon/BaconQRCode) ⭐ 2,087 | 🐛 7 | 🌐 PHP | 📅 2026-04-05 - QR code generator for PHP.
-* [php-qrcode-detector-decoder `R`](https://github.com/khanamiryan/php-qrcode-detector-decoder) ⭐ 1,414 | 🐛 81 | 🌐 PHP | 📅 2025-07-10 - PHP library to detect and decode QR codes.
+* [endroid/qr-code `W`](https://github.com/endroid/qr-code) ⭐ 4,801 | 🐛 13 | 🌐 PHP | 📅 2026-02-05 - QR code generator.
+* [simple-qrcode `W`](https://github.com/SimpleSoftwareIO/simple-qrcode) ⭐ 2,904 | 🐛 58 | 🌐 PHP | 📅 2024-08-12 - An easy-to-use PHP QR code generator.
+* [BaconQRCode `W`](https://github.com/Bacon/BaconQRCode) ⭐ 2,086 | 🐛 7 | 🌐 PHP | 📅 2026-04-05 - QR code generator for PHP.
+* [php-qrcode-detector-decoder `R`](https://github.com/khanamiryan/php-qrcode-detector-decoder) ⭐ 1,413 | 🐛 81 | 🌐 PHP | 📅 2025-07-10 - PHP library to detect and decode QR codes.
 
 ## Resources
 
-* [zxing](https://github.com/zxing/zxing/wiki/Barcode-Contents) ⭐ 34,067 | 🐛 0 | 🌐 Java | 📅 2026-07-28 - QR code payload format catalog.
+* [zxing](https://github.com/zxing/zxing/wiki/Barcode-Contents) ⭐ 34,068 | 🐛 0 | 🌐 Java | 📅 2026-07-28 - QR code payload format catalog.
 
 ## Contributing
 
