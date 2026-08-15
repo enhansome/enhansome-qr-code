@@ -19,7 +19,7 @@
             "last_commit": "2026-05-18T20:44:55Z",
             "owner": "claudiodangelis",
             "repo": "qrcp",
-            "stars": 10496
+            "stars": 10497
           }
         },
         {
@@ -106,7 +106,7 @@
             "last_commit": "2021-12-15T13:21:36Z",
             "owner": "schmich",
             "repo": "instascan",
-            "stars": 3022
+            "stars": 3021
           }
         },
         {
@@ -140,7 +140,7 @@
             "last_commit": "2026-07-11T00:39:05Z",
             "owner": "bingoogolapple",
             "repo": "BGAQRCode-Android",
-            "stars": 8011
+            "stars": 8010
           }
         },
         {
@@ -174,7 +174,7 @@
             "last_commit": "2026-02-05T07:02:55Z",
             "owner": "endroid",
             "repo": "qr-code",
-            "stars": 4801
+            "stars": 4802
           }
         },
         {
@@ -202,7 +202,7 @@
             "last_commit": "2026-04-05T21:07:25Z",
             "owner": "Bacon",
             "repo": "BaconQrCode",
-            "stars": 2086
+            "stars": 2087
           }
         },
         {
@@ -229,7 +229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T15:09:00.145Z",
+    "last_updated": "2026-08-15T14:41:41.954Z",
     "original_repository": "make-github-pseudonymous-again/awesome-qr-code",
     "original_repository_sha": "d04e5493dc6ac5060031779777e2490e6dcbe5fe",
     "enhanced_repository": "enhansome/enhansome-qr-code",
