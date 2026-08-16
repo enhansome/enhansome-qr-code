@@ -19,7 +19,7 @@
             "last_commit": "2026-05-18T20:44:55Z",
             "owner": "claudiodangelis",
             "repo": "qrcp",
-            "stars": 10497
+            "stars": 10499
           }
         },
         {
@@ -140,7 +140,7 @@
             "last_commit": "2026-07-11T00:39:05Z",
             "owner": "bingoogolapple",
             "repo": "BGAQRCode-Android",
-            "stars": 8010
+            "stars": 8009
           }
         },
         {
@@ -229,7 +229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T14:41:41.954Z",
+    "last_updated": "2026-08-16T14:41:35.885Z",
     "original_repository": "make-github-pseudonymous-again/awesome-qr-code",
     "original_repository_sha": "d04e5493dc6ac5060031779777e2490e6dcbe5fe",
     "enhanced_repository": "enhansome/enhansome-qr-code",
