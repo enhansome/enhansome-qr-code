@@ -64,7 +64,7 @@ that the library allows to generate QR codes.
 
 ### React
 
-* [qrcode.react `W`](https://github.com/zpao/qrcode.react) ⭐ 4,281 | 🐛 37 | 🌐 TypeScript | 📅 2026-07-17 - A `<QRCode/>` component for use with React.
+* [qrcode.react `W`](https://github.com/zpao/qrcode.react) ⭐ 4,282 | 🐛 37 | 🌐 TypeScript | 📅 2026-07-17 - A `<QRCode/>` component for use with React.
 
 ### React Native
 
@@ -76,7 +76,7 @@ that the library allows to generate QR codes.
 
 ### Python
 
-* [sylnsfar/qrcode `W`](https://github.com/sylnsfar/qrcode) ⭐ 10,799 | 🐛 66 | 🌐 Python | 📅 2026-07-29 - Artistic QR code in Python (can produce GIFs).
+* [sylnsfar/qrcode `W`](https://github.com/sylnsfar/qrcode) ⭐ 10,799 | 🐛 66 | 🌐 Python | 📅 2026-08-19 - Artistic QR code in Python (can produce GIFs).
 
 ### Ruby
 
@@ -101,14 +101,14 @@ that the library allows to generate QR codes.
 
 ### PHP
 
-* [endroid/qr-code `W`](https://github.com/endroid/qr-code) ⭐ 4,805 | 🐛 13 | 🌐 PHP | 📅 2026-02-05 - QR code generator.
+* [endroid/qr-code `W`](https://github.com/endroid/qr-code) ⭐ 4,806 | 🐛 14 | 🌐 PHP | 📅 2026-02-05 - QR code generator.
 * [simple-qrcode `W`](https://github.com/SimpleSoftwareIO/simple-qrcode) ⭐ 2,904 | 🐛 58 | 🌐 PHP | 📅 2024-08-12 - An easy-to-use PHP QR code generator.
-* [BaconQRCode `W`](https://github.com/Bacon/BaconQRCode) ⭐ 2,088 | 🐛 7 | 🌐 PHP | 📅 2026-04-05 - QR code generator for PHP.
+* [BaconQRCode `W`](https://github.com/Bacon/BaconQRCode) ⭐ 2,089 | 🐛 7 | 🌐 PHP | 📅 2026-04-05 - QR code generator for PHP.
 * [php-qrcode-detector-decoder `R`](https://github.com/khanamiryan/php-qrcode-detector-decoder) ⭐ 1,413 | 🐛 81 | 🌐 PHP | 📅 2025-07-10 - PHP library to detect and decode QR codes.
 
 ## Resources
 
-* [zxing](https://github.com/zxing/zxing/wiki/Barcode-Contents) ⭐ 34,070 | 🐛 1 | 🌐 Java | 📅 2026-08-17 - QR code payload format catalog.
+* [zxing](https://github.com/zxing/zxing/wiki/Barcode-Contents) ⭐ 34,071 | 🐛 1 | 🌐 Java | 📅 2026-08-17 - QR code payload format catalog.
 
 ## Contributing
 
@@ -120,4 +120,4 @@ If you have any question about this opinionated list, do not hesitate to open an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
