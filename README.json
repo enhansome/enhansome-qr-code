@@ -17,7 +17,7 @@
                 "last_commit": "2026-05-18T20:44:55Z",
                 "owner": "claudiodangelis",
                 "repo": "qrcp",
-                "stars": 10504
+                "stars": 10506
               }
             },
             {
@@ -58,7 +58,7 @@
             "last_commit": "2023-07-03T07:47:00Z",
             "owner": "sayanarijit",
             "repo": "qrscan",
-            "stars": 188
+            "stars": 187
           }
         },
         {
@@ -215,7 +215,7 @@
                 "last_commit": "2026-04-05T21:07:25Z",
                 "owner": "Bacon",
                 "repo": "BaconQrCode",
-                "stars": 2089
+                "stars": 2090
               }
             },
             {
@@ -243,7 +243,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T14:57:01.691Z",
+    "last_updated": "2026-08-21T14:55:19.079Z",
     "original_repository": "make-github-pseudonymous-again/awesome-qr-code",
     "original_repository_id": 252092049,
     "original_repository_sha": "d04e5493dc6ac5060031779777e2490e6dcbe5fe",

@@ -21,16 +21,16 @@ A curated list of awesome QR code libraries, software and resources.
 
 ### Readers
 
-* [Web App](https://github.com/gokulkrishh/qrcodescan.in) ⭐ 290 | 🐛 12 | 🌐 JavaScript | 📅 2026-08-11 - A progressive web application to scan QR codes.
+* [Web App](https://github.com/gokulkrishh/qrcodescan.in) ⭐ 290 | 🐛 13 | 🌐 JavaScript | 📅 2026-08-20 - A progressive web application to scan QR codes.
 
 ### File Transfer
 
-* [qrcp](https://github.com/claudiodangelis/qrcp) ⭐ 10,504 | 🐛 12 | 🌐 Go | 📅 2026-05-18 - Transfer files over Wi-Fi from your computer to a mobile device by scanning a QR code without leaving the terminal.
+* [qrcp](https://github.com/claudiodangelis/qrcp) ⭐ 10,506 | 🐛 12 | 🌐 Go | 📅 2026-05-18 - Transfer files over Wi-Fi from your computer to a mobile device by scanning a QR code without leaving the terminal.
 * [qr-filetransfer](https://github.com/sdushantha/qr-filetransfer) ⭐ 1,029 | 🐛 5 | 🌐 Python | 📅 2024-04-10 - Transfer files over Wi-Fi between your computer and your smartphone from the terminal.
 
 ## CLI
 
-* [qrscan](https://github.com/sayanarijit/qrscan) ⭐ 188 | 🐛 9 | 🌐 Rust | 📅 2023-07-03 - Scan a QR code in the terminal using the system camera or a given image.
+* [qrscan](https://github.com/sayanarijit/qrscan) ⭐ 187 | 🐛 9 | 🌐 Rust | 📅 2023-07-03 - Scan a QR code in the terminal using the system camera or a given image.
 * [qrap](https://github.com/make-github-pseudonymous-again/qrap) ⭐ 7 | 🐛 0 | 🌐 Shell | 📅 2020-11-11 - Generate a QR code payload for Wi-Fi access point credentials.
 * [spqr](https://github.com/make-github-pseudonymous-again/spqr) ⭐ 3 | 🐛 0 | 🌐 Shell | 📅 2020-11-11 - Generate a QR code payload for initiating a SEPA transfer.
 * [qrencode](https://fukuchi.org/works/qrencode) - Command line tool to generate QR codes.
@@ -43,11 +43,11 @@ that the library allows to generate QR codes.
 
 ### C
 
-* [libqrencode `W`](https://github.com/fukuchi/libqrencode) ⭐ 3,019 | 🐛 67 | 🌐 C | 📅 2025-10-10 - A fast and compact library for encoding data in a QR code symbol.
+* [libqrencode `W`](https://github.com/fukuchi/libqrencode) ⭐ 3,021 | 🐛 67 | 🌐 C | 📅 2025-10-10 - A fast and compact library for encoding data in a QR code symbol.
 
 ### C, C++, JavaScript, Python, Java, Rust
 
-* [QR-Code-generator `W`](https://github.com/nayuki/QR-Code-generator) ⭐ 6,718 | 🐛 12 | 🌐 Java | 📅 2025-01-23 - High-quality QR code generator library in Java, TypeScript/JavaScript, Python, C++, C, Rust.
+* [QR-Code-generator `W`](https://github.com/nayuki/QR-Code-generator) ⭐ 6,721 | 🐛 12 | 🌐 Java | 📅 2025-01-23 - High-quality QR code generator library in Java, TypeScript/JavaScript, Python, C++, C, Rust.
 
 ### Java
 
@@ -76,7 +76,7 @@ that the library allows to generate QR codes.
 
 ### Python
 
-* [sylnsfar/qrcode `W`](https://github.com/sylnsfar/qrcode) ⭐ 10,799 | 🐛 66 | 🌐 Python | 📅 2026-08-19 - Artistic QR code in Python (can produce GIFs).
+* [sylnsfar/qrcode `W`](https://github.com/sylnsfar/qrcode) ⭐ 10,800 | 🐛 66 | 🌐 Python | 📅 2026-08-19 - Artistic QR code in Python (can produce GIFs).
 
 ### Ruby
 
@@ -103,7 +103,7 @@ that the library allows to generate QR codes.
 
 * [endroid/qr-code `W`](https://github.com/endroid/qr-code) ⭐ 4,806 | 🐛 14 | 🌐 PHP | 📅 2026-02-05 - QR code generator.
 * [simple-qrcode `W`](https://github.com/SimpleSoftwareIO/simple-qrcode) ⭐ 2,904 | 🐛 58 | 🌐 PHP | 📅 2024-08-12 - An easy-to-use PHP QR code generator.
-* [BaconQRCode `W`](https://github.com/Bacon/BaconQRCode) ⭐ 2,089 | 🐛 7 | 🌐 PHP | 📅 2026-04-05 - QR code generator for PHP.
+* [BaconQRCode `W`](https://github.com/Bacon/BaconQRCode) ⭐ 2,090 | 🐛 7 | 🌐 PHP | 📅 2026-04-05 - QR code generator for PHP.
 * [php-qrcode-detector-decoder `R`](https://github.com/khanamiryan/php-qrcode-detector-decoder) ⭐ 1,413 | 🐛 81 | 🌐 PHP | 📅 2025-07-10 - PHP library to detect and decode QR codes.
 
 ## Resources
@@ -120,4 +120,4 @@ If you have any question about this opinionated list, do not hesitate to open an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
