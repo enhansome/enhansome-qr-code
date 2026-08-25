@@ -1,6 +1,6 @@
 # Awesome QR Code with stars
 
-[<img src="repo-link.svg" align="right" width="100">](https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme) ⭐ 152 | 🐛 19 | 📅 2026-02-13
+[<img src="repo-link.svg" align="right" width="100">](https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme) ⭐ 152 | 🐛 20 | 📅 2026-02-13
 
 A curated list of awesome QR code libraries, software and resources.
 
@@ -25,7 +25,7 @@ A curated list of awesome QR code libraries, software and resources.
 
 ### File Transfer
 
-* [qrcp](https://github.com/claudiodangelis/qrcp) ⭐ 10,507 | 🐛 13 | 🌐 Go | 📅 2026-05-18 - Transfer files over Wi-Fi from your computer to a mobile device by scanning a QR code without leaving the terminal.
+* [qrcp](https://github.com/claudiodangelis/qrcp) ⭐ 10,509 | 🐛 13 | 🌐 Go | 📅 2026-05-18 - Transfer files over Wi-Fi from your computer to a mobile device by scanning a QR code without leaving the terminal.
 * [qr-filetransfer](https://github.com/sdushantha/qr-filetransfer) ⭐ 1,029 | 🐛 5 | 🌐 Python | 📅 2024-04-10 - Transfer files over Wi-Fi between your computer and your smartphone from the terminal.
 
 ## CLI
@@ -47,7 +47,7 @@ that the library allows to generate QR codes.
 
 ### C, C++, JavaScript, Python, Java, Rust
 
-* [QR-Code-generator `W`](https://github.com/nayuki/QR-Code-generator) ⭐ 6,723 | 🐛 12 | 🌐 Java | 📅 2026-08-24 - High-quality QR code generator library in Java, TypeScript/JavaScript, Python, C++, C, Rust.
+* [QR-Code-generator `W`](https://github.com/nayuki/QR-Code-generator) ⭐ 6,725 | 🐛 12 | 🌐 Java | 📅 2026-08-24 - High-quality QR code generator library in Java, TypeScript/JavaScript, Python, C++, C, Rust.
 
 ### Java
 
@@ -64,7 +64,7 @@ that the library allows to generate QR codes.
 
 ### React
 
-* [qrcode.react `W`](https://github.com/zpao/qrcode.react) ⭐ 4,285 | 🐛 37 | 🌐 TypeScript | 📅 2026-08-24 - A `<QRCode/>` component for use with React.
+* [qrcode.react `W`](https://github.com/zpao/qrcode.react) ⭐ 4,285 | 🐛 37 | 🌐 TypeScript | 📅 2026-08-25 - A `<QRCode/>` component for use with React.
 
 ### React Native
 
@@ -76,7 +76,7 @@ that the library allows to generate QR codes.
 
 ### Python
 
-* [sylnsfar/qrcode `W`](https://github.com/sylnsfar/qrcode) ⭐ 10,805 | 🐛 66 | 🌐 Python | 📅 2026-08-19 - Artistic QR code in Python (can produce GIFs).
+* [sylnsfar/qrcode `W`](https://github.com/sylnsfar/qrcode) ⭐ 10,805 | 🐛 66 | 🌐 Python | 📅 2026-08-25 - Artistic QR code in Python (can produce GIFs).
 
 ### Ruby
 
@@ -112,7 +112,7 @@ that the library allows to generate QR codes.
 
 ## Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/make-github-pseudonymous-again/awesome-qr-code/blob/main/CONTRIBUTING.md) ⭐ 152 | 🐛 19 | 📅 2026-02-13.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/make-github-pseudonymous-again/awesome-qr-code/blob/main/CONTRIBUTING.md) ⭐ 152 | 🐛 20 | 📅 2026-02-13.
 
 ***
 

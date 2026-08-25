@@ -39,7 +39,7 @@
                 "last_commit": "2026-05-18T20:44:55Z",
                 "owner": "claudiodangelis",
                 "repo": "qrcp",
-                "stars": 10507
+                "stars": 10509
               }
             },
             {
@@ -155,7 +155,7 @@
                 "last_commit": "2026-08-24T16:10:39Z",
                 "owner": "nayuki",
                 "repo": "QR-Code-generator",
-                "stars": 6723
+                "stars": 6725
               }
             }
           ],
@@ -255,7 +255,7 @@
                 "archived": false,
                 "id": 17810823,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T07:00:09Z",
+                "last_commit": "2026-08-25T07:03:09Z",
                 "owner": "zpao",
                 "repo": "qrcode.react",
                 "stars": 4285
@@ -321,7 +321,7 @@
                 "archived": false,
                 "id": 66557478,
                 "language": "Python",
-                "last_commit": "2026-08-19T15:19:08Z",
+                "last_commit": "2026-08-25T14:11:47Z",
                 "owner": "x-hw",
                 "repo": "amazing-qr",
                 "stars": 10805
@@ -529,7 +529,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:31:52.356Z",
+    "last_updated": "2026-08-25T15:08:14.332Z",
     "original_repository": "make-github-pseudonymous-again/awesome-qr-code",
     "original_repository_id": 252092049,
     "original_repository_sha": "d04e5493dc6ac5060031779777e2490e6dcbe5fe",
