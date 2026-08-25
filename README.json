@@ -152,7 +152,7 @@
                 "archived": false,
                 "id": 56284158,
                 "language": "Java",
-                "last_commit": "2026-08-23T23:03:46Z",
+                "last_commit": "2026-08-24T16:10:39Z",
                 "owner": "nayuki",
                 "repo": "QR-Code-generator",
                 "stars": 6723
@@ -324,7 +324,7 @@
                 "last_commit": "2026-08-19T15:19:08Z",
                 "owner": "x-hw",
                 "repo": "amazing-qr",
-                "stars": 10804
+                "stars": 10805
               }
             }
           ],
@@ -390,7 +390,7 @@
                 "last_commit": "2026-03-03T16:58:41Z",
                 "owner": "EFPrefix",
                 "repo": "EFQRCode",
-                "stars": 4756
+                "stars": 4755
               }
             }
           ],
@@ -529,7 +529,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:02:59.821Z",
+    "last_updated": "2026-08-25T06:31:52.356Z",
     "original_repository": "make-github-pseudonymous-again/awesome-qr-code",
     "original_repository_id": 252092049,
     "original_repository_sha": "d04e5493dc6ac5060031779777e2490e6dcbe5fe",

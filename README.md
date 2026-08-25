@@ -47,7 +47,7 @@ that the library allows to generate QR codes.
 
 ### C, C++, JavaScript, Python, Java, Rust
 
-* [QR-Code-generator `W`](https://github.com/nayuki/QR-Code-generator) ⭐ 6,723 | 🐛 12 | 🌐 Java | 📅 2026-08-23 - High-quality QR code generator library in Java, TypeScript/JavaScript, Python, C++, C, Rust.
+* [QR-Code-generator `W`](https://github.com/nayuki/QR-Code-generator) ⭐ 6,723 | 🐛 12 | 🌐 Java | 📅 2026-08-24 - High-quality QR code generator library in Java, TypeScript/JavaScript, Python, C++, C, Rust.
 
 ### Java
 
@@ -76,7 +76,7 @@ that the library allows to generate QR codes.
 
 ### Python
 
-* [sylnsfar/qrcode `W`](https://github.com/sylnsfar/qrcode) ⭐ 10,804 | 🐛 66 | 🌐 Python | 📅 2026-08-19 - Artistic QR code in Python (can produce GIFs).
+* [sylnsfar/qrcode `W`](https://github.com/sylnsfar/qrcode) ⭐ 10,805 | 🐛 66 | 🌐 Python | 📅 2026-08-19 - Artistic QR code in Python (can produce GIFs).
 
 ### Ruby
 
@@ -88,7 +88,7 @@ that the library allows to generate QR codes.
 
 ### Swift
 
-* [EFQRCode `W`](https://github.com/EFPrefix/EFQRCode) ⭐ 4,756 | 🐛 5 | 🌐 Swift | 📅 2026-03-03 - A better way to operate QR code in Swift, support iOS, macOS, watchOS and tvOS.
+* [EFQRCode `W`](https://github.com/EFPrefix/EFQRCode) ⭐ 4,755 | 🐛 5 | 🌐 Swift | 📅 2026-03-03 - A better way to operate QR code in Swift, support iOS, macOS, watchOS and tvOS.
 
 ### C\#
 
@@ -108,7 +108,7 @@ that the library allows to generate QR codes.
 
 ## Resources
 
-* [zxing](https://github.com/zxing/zxing/wiki/Barcode-Contents) ⭐ 34,077 | 🐛 1 | 🌐 Java | 📅 2026-08-24 - QR code payload format catalog.
+* [zxing](https://github.com/zxing/zxing/wiki/Barcode-Contents) ⭐ 34,077 | 🐛 0 | 🌐 Java | 📅 2026-08-24 - QR code payload format catalog.
 
 ## Contributing
 
@@ -120,4 +120,4 @@ If you have any question about this opinionated list, do not hesitate to open an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
