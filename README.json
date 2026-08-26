@@ -39,7 +39,7 @@
                 "last_commit": "2026-05-18T20:44:55Z",
                 "owner": "claudiodangelis",
                 "repo": "qrcp",
-                "stars": 10509
+                "stars": 10510
               }
             },
             {
@@ -155,7 +155,7 @@
                 "last_commit": "2026-08-24T16:10:39Z",
                 "owner": "nayuki",
                 "repo": "QR-Code-generator",
-                "stars": 6725
+                "stars": 6728
               }
             }
           ],
@@ -236,7 +236,7 @@
                 "last_commit": "2026-05-15T21:13:24Z",
                 "owner": "cozmo",
                 "repo": "jsQR",
-                "stars": 4026
+                "stars": 4025
               }
             }
           ],
@@ -255,7 +255,7 @@
                 "archived": false,
                 "id": 17810823,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T07:03:09Z",
+                "last_commit": "2026-08-26T07:01:03Z",
                 "owner": "zpao",
                 "repo": "qrcode.react",
                 "stars": 4285
@@ -449,7 +449,7 @@
                 "last_commit": "2023-12-02T14:39:24Z",
                 "owner": "sumimakito",
                 "repo": "AwesomeQRCode",
-                "stars": 1915
+                "stars": 1916
               }
             }
           ],
@@ -486,7 +486,7 @@
                 "last_commit": "2024-08-12T08:42:45Z",
                 "owner": "SimpleSoftwareIO",
                 "repo": "simple-qrcode",
-                "stars": 2904
+                "stars": 2903
               }
             },
             {
@@ -516,7 +516,7 @@
                 "last_commit": "2025-07-10T12:54:21Z",
                 "owner": "khanamiryan",
                 "repo": "php-qrcode-detector-decoder",
-                "stars": 1413
+                "stars": 1412
               }
             }
           ],
@@ -529,7 +529,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T15:08:14.332Z",
+    "last_updated": "2026-08-26T15:55:46.746Z",
     "original_repository": "make-github-pseudonymous-again/awesome-qr-code",
     "original_repository_id": 252092049,
     "original_repository_sha": "d04e5493dc6ac5060031779777e2490e6dcbe5fe",
