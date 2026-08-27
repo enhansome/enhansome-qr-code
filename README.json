@@ -39,7 +39,7 @@
                 "last_commit": "2026-05-18T20:44:55Z",
                 "owner": "claudiodangelis",
                 "repo": "qrcp",
-                "stars": 10510
+                "stars": 10511
               }
             },
             {
@@ -80,7 +80,7 @@
             "last_commit": "2023-07-03T07:47:00Z",
             "owner": "sayanarijit",
             "repo": "qrscan",
-            "stars": 187
+            "stars": 188
           }
         },
         {
@@ -133,7 +133,7 @@
                 "last_commit": "2025-10-10T06:30:58Z",
                 "owner": "fukuchi",
                 "repo": "libqrencode",
-                "stars": 3023
+                "stars": 3024
               }
             }
           ],
@@ -155,7 +155,7 @@
                 "last_commit": "2026-08-24T16:10:39Z",
                 "owner": "nayuki",
                 "repo": "QR-Code-generator",
-                "stars": 6728
+                "stars": 6732
               }
             }
           ],
@@ -214,7 +214,7 @@
                 "last_commit": "2024-06-18T16:43:55Z",
                 "owner": "airmrcr",
                 "repo": "qrious",
-                "stars": 1617
+                "stars": 1618
               }
             }
           ],
@@ -236,7 +236,7 @@
                 "last_commit": "2026-05-15T21:13:24Z",
                 "owner": "cozmo",
                 "repo": "jsQR",
-                "stars": 4025
+                "stars": 4026
               }
             }
           ],
@@ -255,7 +255,7 @@
                 "archived": false,
                 "id": 17810823,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T07:01:03Z",
+                "last_commit": "2026-08-27T07:01:07Z",
                 "owner": "zpao",
                 "repo": "qrcode.react",
                 "stars": 4285
@@ -324,7 +324,7 @@
                 "last_commit": "2026-08-25T14:11:47Z",
                 "owner": "x-hw",
                 "repo": "amazing-qr",
-                "stars": 10805
+                "stars": 10809
               }
             }
           ],
@@ -449,7 +449,7 @@
                 "last_commit": "2023-12-02T14:39:24Z",
                 "owner": "sumimakito",
                 "repo": "AwesomeQRCode",
-                "stars": 1916
+                "stars": 1915
               }
             }
           ],
@@ -529,9 +529,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T15:55:46.746Z",
-    "original_repository": "make-github-pseudonymous-again/awesome-qr-code",
-    "original_repository_id": 252092049,
+    "last_updated": "2026-08-27T12:02:46.351Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 252092049,
+      "language": null,
+      "last_commit": "2026-02-13T15:39:11Z",
+      "owner": "make-github-pseudonymous-again",
+      "repo": "awesome-qr-code",
+      "stars": 152
+    },
     "original_repository_sha": "d04e5493dc6ac5060031779777e2490e6dcbe5fe",
     "enhanced_repository": "enhansome/enhansome-qr-code",
     "enhanced_repository_description": null,
