@@ -64,7 +64,7 @@ that the library allows to generate QR codes.
 
 ### React
 
-* [qrcode.react `W`](https://github.com/zpao/qrcode.react) ⭐ 4,285 | 🐛 37 | 🌐 TypeScript | 📅 2026-08-28 - A `<QRCode/>` component for use with React.
+* [qrcode.react `W`](https://github.com/zpao/qrcode.react) ⭐ 4,284 | 🐛 37 | 🌐 TypeScript | 📅 2026-08-28 - A `<QRCode/>` component for use with React.
 
 ### React Native
 
@@ -76,7 +76,7 @@ that the library allows to generate QR codes.
 
 ### Python
 
-* [sylnsfar/qrcode `W`](https://github.com/sylnsfar/qrcode) ⭐ 10,811 | 🐛 66 | 🌐 Python | 📅 2026-08-25 - Artistic QR code in Python (can produce GIFs).
+* [sylnsfar/qrcode `W`](https://github.com/sylnsfar/qrcode) ⭐ 10,812 | 🐛 66 | 🌐 Python | 📅 2026-08-25 - Artistic QR code in Python (can produce GIFs).
 
 ### Ruby
 
@@ -108,7 +108,7 @@ that the library allows to generate QR codes.
 
 ## Resources
 
-* [zxing](https://github.com/zxing/zxing/wiki/Barcode-Contents) ⭐ 34,079 | 🐛 0 | 🌐 Java | 📅 2026-08-24 - QR code payload format catalog.
+* [zxing](https://github.com/zxing/zxing/wiki/Barcode-Contents) ⭐ 34,078 | 🐛 0 | 🌐 Java | 📅 2026-08-24 - QR code payload format catalog.
 
 ## Contributing
 
@@ -120,4 +120,4 @@ If you have any question about this opinionated list, do not hesitate to open an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

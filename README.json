@@ -12,12 +12,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "QR Code Scanner is the simplest, fastest and most user-friendly web application.",
+                "homepage": "https://qrcodescan.in",
                 "id": 311518932,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-20T22:15:42Z",
+                "open_issues": 13,
                 "owner": "gokulkrishh",
                 "repo": "qrcodescan.in",
-                "stars": 290
+                "stars": 290,
+                "topics": [
+                  "app",
+                  "progressive-web-app",
+                  "pwa",
+                  "qr",
+                  "qrcode",
+                  "qrcode-scanner",
+                  "qrcodes",
+                  "web",
+                  "webapp"
+                ]
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
             }
@@ -35,12 +50,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.",
+                "homepage": "https://qrcp.sh",
                 "id": 117472496,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-05-18T20:44:55Z",
+                "open_issues": 13,
                 "owner": "claudiodangelis",
                 "repo": "qrcp",
-                "stars": 10512
+                "stars": 10512,
+                "topics": [
+                  "cli",
+                  "command-line",
+                  "golang",
+                  "qrcode",
+                  "utility"
+                ]
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
             },
@@ -51,12 +77,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Transfer files over WiFi between your computer and your smartphone from the terminal",
+                "homepage": "https://git.io/qr-filetransfer",
                 "id": 127438939,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-10T07:21:35Z",
+                "open_issues": 5,
                 "owner": "sdushantha",
                 "repo": "qr-filetransfer",
-                "stars": 1029
+                "stars": 1029,
+                "topics": [
+                  "command-line-tool",
+                  "file-sharing",
+                  "linux",
+                  "macos",
+                  "mobile",
+                  "python",
+                  "qr-filetransfer",
+                  "qrcode",
+                  "smartphone",
+                  "terminal",
+                  "transfer",
+                  "transfer-files",
+                  "wifi"
+                ]
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
             }
@@ -78,12 +123,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scan a QR code in the terminal using the system camera or a given image",
+            "homepage": "https://deepwiki.com/sayanarijit/qrscan",
             "id": 513472734,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2023-07-03T07:47:00Z",
+            "open_issues": 9,
             "owner": "sayanarijit",
             "repo": "qrscan",
-            "stars": 188
+            "stars": 188,
+            "topics": [
+              "camera",
+              "command-line",
+              "console-application",
+              "qrcode",
+              "qrcode-scanner",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-28T23:34:16.677Z"
         },
@@ -94,12 +151,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":poop: Generate a QR code payload for WiFi access point credentials",
+            "homepage": null,
             "id": 244458813,
             "language": "Shell",
+            "license": "AGPL-3.0",
             "last_commit": "2020-11-11T19:01:43Z",
+            "open_issues": 0,
             "owner": "make-github-pseudonymous-again",
             "repo": "qrap",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "qr-code",
+              "qr-code-generator",
+              "qr-codes",
+              "qrap",
+              "qrcode",
+              "qrcode-generator",
+              "qrcodes"
+            ]
           },
           "first_seen": "2026-08-28T23:34:16.677Z"
         },
@@ -110,12 +180,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":dagger: Generate a QR code payload for initiating a SEPA transfer",
+            "homepage": null,
             "id": 244458860,
             "language": "Shell",
+            "license": "AGPL-3.0",
             "last_commit": "2020-11-11T21:04:18Z",
+            "open_issues": 0,
             "owner": "make-github-pseudonymous-again",
             "repo": "spqr",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "qr-code",
+              "qr-code-generator",
+              "qr-codes",
+              "qrcode",
+              "qrcode-generator",
+              "qrcodes",
+              "spqr"
+            ]
           },
           "first_seen": "2026-08-28T23:34:16.677Z"
         }
@@ -134,12 +217,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fast and compact QR Code encoding library",
+                "homepage": "https://fukuchi.org/works/qrencode/",
                 "id": 1410242,
                 "language": "C",
+                "license": "LGPL-2.1",
                 "last_commit": "2025-10-10T06:30:58Z",
+                "open_issues": 67,
                 "owner": "fukuchi",
                 "repo": "libqrencode",
-                "stars": 3023
+                "stars": 3023,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
             }
@@ -157,12 +245,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.",
+                "homepage": "https://www.nayuki.io/page/qr-code-generator-library",
                 "id": 56284158,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T16:10:39Z",
+                "open_issues": 13,
                 "owner": "nayuki",
                 "repo": "QR-Code-generator",
-                "stars": 6735
+                "stars": 6735,
+                "topics": [
+                  "c",
+                  "c-plus-plus",
+                  "java",
+                  "javascript",
+                  "library",
+                  "python",
+                  "qr",
+                  "qr-code",
+                  "qr-generator",
+                  "rust",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
             }
@@ -180,12 +285,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Qart merge picture and QR code, based on https://github.com/chinuno-usami/CuteR",
+                "homepage": null,
                 "id": 67465277,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2025-11-24T03:19:33Z",
+                "open_issues": 7,
                 "owner": "scola",
                 "repo": "Qart",
-                "stars": 1084
+                "stars": 1084,
+                "topics": [
+                  "android",
+                  "qart",
+                  "qrcode"
+                ]
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
             }
@@ -203,12 +317,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HTML5 QR code scanner using your webcam",
+                "homepage": "https://schmich.github.io/instascan/",
                 "id": 61934962,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-12-15T13:21:36Z",
+                "open_issues": 192,
                 "owner": "schmich",
                 "repo": "instascan",
-                "stars": 3022
+                "stars": 3022,
+                "topics": [
+                  "browser",
+                  "camera",
+                  "emscripten",
+                  "html5",
+                  "javascript",
+                  "qr-code",
+                  "qrcode",
+                  "quick-response",
+                  "video",
+                  "webcam",
+                  "zxing"
+                ]
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
             },
@@ -219,12 +350,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pure JavaScript library for QR code generation using canvas",
+                "homepage": "https://neocotic.com/qrious",
                 "id": 2185527,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2024-06-18T16:43:55Z",
+                "open_issues": 44,
                 "owner": "airmrcr",
                 "repo": "qrious",
-                "stars": 1619
+                "stars": 1619,
+                "topics": [
+                  "browser",
+                  "javascript",
+                  "qr",
+                  "qrcode",
+                  "qrcode-generator"
+                ]
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
             }
@@ -242,12 +384,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A pure javascript QR code reading library. This library takes in raw images and will locate, extract and parse any QR code found within.",
+                "homepage": "https://cozmo.github.io/jsQR/",
                 "id": 47822826,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-15T21:13:24Z",
+                "open_issues": 97,
                 "owner": "cozmo",
                 "repo": "jsQR",
-                "stars": 4026
+                "stars": 4026,
+                "topics": [
+                  "qr",
+                  "qr-code",
+                  "qr-parsing-library",
+                  "qr-scanner",
+                  "qrcode",
+                  "qrcode-reader",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
             }
@@ -265,12 +420,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A <QRCode/> component for use with React.",
+                "homepage": "https://zpao.github.io/qrcode.react/",
                 "id": 17810823,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T07:04:32Z",
+                "open_issues": 37,
                 "owner": "zpao",
                 "repo": "qrcode.react",
-                "stars": 4285
+                "stars": 4284,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
             }
@@ -288,12 +448,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A QR code scanner component for React Native.",
+                "homepage": null,
                 "id": 66314657,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-05-12T11:16:38Z",
+                "open_issues": 123,
                 "owner": "moaazsidat",
                 "repo": "react-native-qrcode-scanner",
-                "stars": 2035
+                "stars": 2035,
+                "topics": [
+                  "barcode",
+                  "camera",
+                  "qrcode",
+                  "qrcode-scanner",
+                  "react-native"
+                ]
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
             }
@@ -311,12 +482,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of Vue.js components for detecting and decoding QR codes.",
+                "homepage": "https://gruhn.github.io/vue-qrcode-reader",
                 "id": 100715803,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-12T11:01:13Z",
+                "open_issues": 4,
                 "owner": "gruhn",
                 "repo": "vue-qrcode-reader",
-                "stars": 2307
+                "stars": 2307,
+                "topics": [
+                  "barcode",
+                  "barcode-reader",
+                  "barcode-scanner",
+                  "qr-code",
+                  "qr-codes",
+                  "qrcode",
+                  "qrcode-reader",
+                  "qrcode-scanner",
+                  "vue",
+                  "vue-component",
+                  "vue-components",
+                  "vue-plugin",
+                  "vuejs",
+                  "webrtc"
+                ]
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
             }
@@ -334,12 +525,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💮 amazing QRCode generator in Python (supporting animated gif) - Python amazing 二维码生成器（支持 gif 动态图片二维码）",
+                "homepage": null,
                 "id": 66557478,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-25T14:11:47Z",
+                "open_issues": 66,
                 "owner": "x-hw",
                 "repo": "amazing-qr",
-                "stars": 10811
+                "stars": 10812,
+                "topics": [
+                  "amazing",
+                  "gif",
+                  "picture",
+                  "qr-code",
+                  "qrcode",
+                  "qrcode-generator"
+                ]
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
             }
@@ -357,12 +560,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Ruby library that encodes QR Codes",
+                "homepage": null,
                 "id": 6485,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-06-01T13:09:27Z",
+                "open_issues": 0,
                 "owner": "whomwah",
                 "repo": "rqrcode",
-                "stars": 1999
+                "stars": 1999,
+                "topics": [
+                  "qrcode",
+                  "qrcode-generator",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
             }
@@ -380,12 +592,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The easy to use bar code and QR code scan library for iOS【支持二维码生成、读取图片中二维码、条形码和二维码扫描】",
+                "homepage": null,
                 "id": 66864317,
                 "language": "Objective-C",
+                "license": "Apache-2.0",
                 "last_commit": "2024-02-02T07:16:28Z",
+                "open_issues": 13,
                 "owner": "kingsic",
                 "repo": "SGQRCode",
-                "stars": 1697
+                "stars": 1697,
+                "topics": [
+                  "barcode",
+                  "qrcode"
+                ]
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
             }
@@ -403,12 +623,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A better way to operate QRCode in Swift, support iOS, macOS, watchOS, tvOS, and/or visionOS.",
+                "homepage": "https://efprefix.github.io/EFQRCode",
                 "id": 79902465,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-03-03T16:58:41Z",
+                "open_issues": 5,
                 "owner": "EFPrefix",
                 "repo": "EFQRCode",
-                "stars": 4756
+                "stars": 4756,
+                "topics": [
+                  "barcode",
+                  "barcode-generator",
+                  "barcode-scanner",
+                  "barcodes",
+                  "generator",
+                  "hacktoberfest",
+                  "ios",
+                  "qr",
+                  "qr-code",
+                  "qr-code-generator",
+                  "qr-codes",
+                  "qr-generator",
+                  "qrcode",
+                  "qrcode-generator",
+                  "qrcode-reader",
+                  "qrcode-scanner",
+                  "qrcodes",
+                  "recognizer",
+                  "swift",
+                  "watchos"
+                ]
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
             }
@@ -426,12 +672,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A pure C# Open Source QR Code implementation",
+                "homepage": null,
                 "id": 13537369,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-23T16:34:45Z",
+                "open_issues": 28,
                 "owner": "Shane32",
                 "repo": "QRCoder",
-                "stars": 5155
+                "stars": 5155,
+                "topics": [
+                  "barcode",
+                  "c-sharp",
+                  "csharp",
+                  "girocode",
+                  "qrcode",
+                  "qrcode-generator",
+                  "qrcoder-generator",
+                  "swissqrcode"
+                ]
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
             }
@@ -449,12 +709,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式",
+                "homepage": null,
                 "id": 28405578,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-07-11T00:39:05Z",
+                "open_issues": 250,
                 "owner": "bingoogolapple",
                 "repo": "BGAQRCode-Android",
-                "stars": 8008
+                "stars": 8008,
+                "topics": [
+                  "qrcode",
+                  "qrcode-android",
+                  "qrcode-generator",
+                  "qrcode-scanner"
+                ]
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
             },
@@ -465,12 +735,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An awesome QR code generator for Android.",
+                "homepage": null,
                 "id": 89555035,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2023-12-02T14:39:24Z",
+                "open_issues": 21,
                 "owner": "sumimakito",
                 "repo": "AwesomeQRCode",
-                "stars": 1915
+                "stars": 1915,
+                "topics": [
+                  "qr-code",
+                  "qr-generator",
+                  "qrcode",
+                  "qrcode-generator"
+                ]
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
             }
@@ -488,12 +768,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PHP QR Code library that helps you create QR codes in a jiffy",
+                "homepage": "https://endroid.nl",
                 "id": 6418813,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-02-05T07:02:55Z",
+                "open_issues": 14,
                 "owner": "endroid",
                 "repo": "qr-code",
-                "stars": 4807
+                "stars": 4807,
+                "topics": [
+                  "data-uri",
+                  "factory",
+                  "php",
+                  "qrcode",
+                  "reader",
+                  "twig-extension"
+                ]
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
             },
@@ -504,12 +796,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An easy-to-use PHP QrCode generator with first-party support for Laravel.",
+                "homepage": "https://www.simplesoftware.io/simple-qrcode",
                 "id": 20664530,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2024-08-12T08:42:45Z",
+                "open_issues": 58,
                 "owner": "SimpleSoftwareIO",
                 "repo": "simple-qrcode",
-                "stars": 2903
+                "stars": 2903,
+                "topics": [
+                  "hacktoberfest",
+                  "laravel",
+                  "laravel-package",
+                  "php",
+                  "php-library",
+                  "qr-code",
+                  "qrcode-generator"
+                ]
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
             },
@@ -520,12 +825,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "QR Code Generator for PHP",
+                "homepage": null,
                 "id": 8974570,
                 "language": "PHP",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-04-05T21:07:25Z",
+                "open_issues": 7,
                 "owner": "Bacon",
                 "repo": "BaconQrCode",
-                "stars": 2092
+                "stars": 2092,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
             },
@@ -536,12 +846,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a PHP library to detect and decode QR-codes. This is first and only QR code reader that works without extensions.",
+                "homepage": null,
                 "id": 38191198,
                 "language": "PHP",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-10T12:54:21Z",
+                "open_issues": 81,
                 "owner": "khanamiryan",
                 "repo": "php-qrcode-detector-decoder",
-                "stars": 1412
+                "stars": 1412,
+                "topics": [
+                  "decode-qr-codes",
+                  "decoder",
+                  "php-library",
+                  "reader"
+                ]
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
             }
@@ -555,15 +875,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:34:16.677Z",
+    "last_updated": "2026-08-29T04:54:46.777Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome QR code libraries, software and resources",
+      "homepage": null,
       "id": 252092049,
       "language": null,
+      "license": "CC-BY-SA-4.0",
       "last_commit": "2026-02-13T15:39:11Z",
+      "open_issues": 20,
       "owner": "make-github-pseudonymous-again",
       "repo": "awesome-qr-code",
-      "stars": 152
+      "stars": 152,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "collections",
+        "lists",
+        "qr-code",
+        "qr-codes",
+        "qrcode",
+        "qrcodes",
+        "resources"
+      ]
     },
     "original_repository_sha": "d04e5493dc6ac5060031779777e2490e6dcbe5fe",
     "enhanced_repository": "enhansome/enhansome-qr-code",
