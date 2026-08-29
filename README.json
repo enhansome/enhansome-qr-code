@@ -359,7 +359,7 @@
                 "open_issues": 44,
                 "owner": "airmrcr",
                 "repo": "qrious",
-                "stars": 1619,
+                "stars": 1618,
                 "topics": [
                   "browser",
                   "javascript",
@@ -534,7 +534,7 @@
                 "open_issues": 66,
                 "owner": "x-hw",
                 "repo": "amazing-qr",
-                "stars": 10812,
+                "stars": 10811,
                 "topics": [
                   "amazing",
                   "gif",
@@ -632,7 +632,7 @@
                 "open_issues": 5,
                 "owner": "EFPrefix",
                 "repo": "EFQRCode",
-                "stars": 4756,
+                "stars": 4757,
                 "topics": [
                   "barcode",
                   "barcode-generator",
@@ -678,7 +678,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-08-23T16:34:45Z",
-                "open_issues": 28,
+                "open_issues": 29,
                 "owner": "Shane32",
                 "repo": "QRCoder",
                 "stars": 5155,
@@ -718,7 +718,7 @@
                 "open_issues": 250,
                 "owner": "bingoogolapple",
                 "repo": "BGAQRCode-Android",
-                "stars": 8008,
+                "stars": 8009,
                 "topics": [
                   "qrcode",
                   "qrcode-android",
@@ -777,7 +777,7 @@
                 "open_issues": 14,
                 "owner": "endroid",
                 "repo": "qr-code",
-                "stars": 4807,
+                "stars": 4808,
                 "topics": [
                   "data-uri",
                   "factory",
@@ -834,7 +834,7 @@
                 "open_issues": 7,
                 "owner": "Bacon",
                 "repo": "BaconQrCode",
-                "stars": 2092,
+                "stars": 2091,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
@@ -875,7 +875,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:54:46.777Z",
+    "last_updated": "2026-08-29T17:44:22.237Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome QR code libraries, software and resources",
