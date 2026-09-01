@@ -43,11 +43,11 @@ that the library allows to generate QR codes.
 
 ### C
 
-* [libqrencode `W`](https://github.com/fukuchi/libqrencode) ⭐ 3,025 | 🐛 67 | 🌐 C | 📅 2025-10-10 - A fast and compact library for encoding data in a QR code symbol.
+* [libqrencode `W`](https://github.com/fukuchi/libqrencode) ⭐ 3,026 | 🐛 67 | 🌐 C | 📅 2025-10-10 - A fast and compact library for encoding data in a QR code symbol.
 
 ### C, C++, JavaScript, Python, Java, Rust
 
-* [QR-Code-generator `W`](https://github.com/nayuki/QR-Code-generator) ⭐ 6,742 | 🐛 13 | 🌐 Java | 📅 2026-08-31 - High-quality QR code generator library in Java, TypeScript/JavaScript, Python, C++, C, Rust.
+* [QR-Code-generator `W`](https://github.com/nayuki/QR-Code-generator) ⭐ 6,744 | 🐛 13 | 🌐 Java | 📅 2026-08-31 - High-quality QR code generator library in Java, TypeScript/JavaScript, Python, C++, C, Rust.
 
 ### Java
 
@@ -60,11 +60,11 @@ that the library allows to generate QR codes.
 
 ### TypeScript
 
-* [jsQR `R`](https://github.com/cozmo/jsQR) ⭐ 4,025 | 🐛 97 | 🌐 TypeScript | 📅 2026-05-15 - A pure JavaScript QR code reading library.
+* [jsQR `R`](https://github.com/cozmo/jsQR) ⭐ 4,026 | 🐛 97 | 🌐 TypeScript | 📅 2026-05-15 - A pure JavaScript QR code reading library.
 
 ### React
 
-* [qrcode.react `W`](https://github.com/zpao/qrcode.react) ⭐ 4,284 | 🐛 37 | 🌐 TypeScript | 📅 2026-08-31 - A `<QRCode/>` component for use with React.
+* [qrcode.react `W`](https://github.com/zpao/qrcode.react) ⭐ 4,284 | 🐛 37 | 🌐 TypeScript | 📅 2026-09-01 - A `<QRCode/>` component for use with React.
 
 ### React Native
 
@@ -72,7 +72,7 @@ that the library allows to generate QR codes.
 
 ### Vue
 
-* [vue-qrcode-reader `R`](https://github.com/gruhn/vue-qrcode-reader) ⭐ 2,307 | 🐛 4 | 🌐 TypeScript | 📅 2026-07-12 - A set of Vue.js components for detecting and decoding QR codes.
+* [vue-qrcode-reader `R`](https://github.com/gruhn/vue-qrcode-reader) ⭐ 2,308 | 🐛 4 | 🌐 TypeScript | 📅 2026-07-12 - A set of Vue.js components for detecting and decoding QR codes.
 
 ### Python
 
@@ -80,7 +80,7 @@ that the library allows to generate QR codes.
 
 ### Ruby
 
-* [rqrcode `W`](https://github.com/whomwah/rqrcode) ⭐ 1,999 | 🐛 0 | 🌐 Ruby | 📅 2026-06-01 - A neat Ruby QR code generator exporting to `svg`, `png` and `ansi` with configurable size, color and other attributes.
+* [rqrcode `W`](https://github.com/whomwah/rqrcode) ⭐ 2,000 | 🐛 0 | 🌐 Ruby | 📅 2026-06-01 - A neat Ruby QR code generator exporting to `svg`, `png` and `ansi` with configurable size, color and other attributes.
 
 ### Objective-C
 
@@ -92,7 +92,7 @@ that the library allows to generate QR codes.
 
 ### C\#
 
-* [QRCoder `W`](https://github.com/codebude/QRCoder) ⭐ 5,156 | 🐛 29 | 🌐 C# | 📅 2026-08-23 - A pure C# Open Source QR code implementation.
+* [QRCoder `W`](https://github.com/codebude/QRCoder) ⭐ 5,157 | 🐛 29 | 🌐 C# | 📅 2026-08-23 - A pure C# Open Source QR code implementation.
 
 ### Android
 
@@ -108,7 +108,7 @@ that the library allows to generate QR codes.
 
 ## Resources
 
-* [zxing](https://github.com/zxing/zxing/wiki/Barcode-Contents) ⭐ 34,078 | 🐛 1 | 🌐 Java | 📅 2026-08-31 - QR code payload format catalog.
+* [zxing](https://github.com/zxing/zxing/wiki/Barcode-Contents) ⭐ 34,076 | 🐛 0 | 🌐 Java | 📅 2026-09-01 - QR code payload format catalog.
 
 ## Contributing
 
@@ -120,4 +120,4 @@ If you have any question about this opinionated list, do not hesitate to open an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._

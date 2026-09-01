@@ -226,7 +226,7 @@
                 "open_issues": 67,
                 "owner": "fukuchi",
                 "repo": "libqrencode",
-                "stars": 3025,
+                "stars": 3026,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
@@ -254,7 +254,7 @@
                 "open_issues": 13,
                 "owner": "nayuki",
                 "repo": "QR-Code-generator",
-                "stars": 6742,
+                "stars": 6744,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -393,7 +393,7 @@
                 "open_issues": 97,
                 "owner": "cozmo",
                 "repo": "jsQR",
-                "stars": 4025,
+                "stars": 4026,
                 "topics": [
                   "qr",
                   "qr-code",
@@ -425,7 +425,7 @@
                 "id": 17810823,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-31T07:04:14Z",
+                "last_commit": "2026-09-01T07:05:27Z",
                 "open_issues": 37,
                 "owner": "zpao",
                 "repo": "qrcode.react",
@@ -491,7 +491,7 @@
                 "open_issues": 4,
                 "owner": "gruhn",
                 "repo": "vue-qrcode-reader",
-                "stars": 2307,
+                "stars": 2308,
                 "topics": [
                   "barcode",
                   "barcode-reader",
@@ -569,7 +569,7 @@
                 "open_issues": 0,
                 "owner": "whomwah",
                 "repo": "rqrcode",
-                "stars": 1999,
+                "stars": 2000,
                 "topics": [
                   "qrcode",
                   "qrcode-generator",
@@ -681,7 +681,7 @@
                 "open_issues": 29,
                 "owner": "Shane32",
                 "repo": "QRCoder",
-                "stars": 5156,
+                "stars": 5157,
                 "topics": [
                   "barcode",
                   "c-sharp",
@@ -875,7 +875,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T20:08:38.572Z",
+    "last_updated": "2026-09-01T17:50:21.758Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome QR code libraries, software and resources",
