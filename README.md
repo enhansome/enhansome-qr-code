@@ -21,7 +21,7 @@ A curated list of awesome QR code libraries, software and resources.
 
 ### Readers
 
-* [Web App](https://github.com/gokulkrishh/qrcodescan.in) ⭐ 290 | 🐛 13 | 🌐 JavaScript | 📅 2026-08-20 - A progressive web application to scan QR codes.
+* [Web App](https://github.com/gokulkrishh/qrcodescan.in) ⭐ 290 | 🐛 14 | 🌐 JavaScript | 📅 2026-09-02 - A progressive web application to scan QR codes.
 
 ### File Transfer
 
@@ -47,7 +47,7 @@ that the library allows to generate QR codes.
 
 ### C, C++, JavaScript, Python, Java, Rust
 
-* [QR-Code-generator `W`](https://github.com/nayuki/QR-Code-generator) ⭐ 6,744 | 🐛 13 | 🌐 Java | 📅 2026-08-31 - High-quality QR code generator library in Java, TypeScript/JavaScript, Python, C++, C, Rust.
+* [QR-Code-generator `W`](https://github.com/nayuki/QR-Code-generator) ⭐ 6,748 | 🐛 12 | 🌐 Java | 📅 2026-08-31 - High-quality QR code generator library in Java, TypeScript/JavaScript, Python, C++, C, Rust.
 
 ### Java
 
@@ -64,7 +64,7 @@ that the library allows to generate QR codes.
 
 ### React
 
-* [qrcode.react `W`](https://github.com/zpao/qrcode.react) ⭐ 4,284 | 🐛 37 | 🌐 TypeScript | 📅 2026-09-01 - A `<QRCode/>` component for use with React.
+* [qrcode.react `W`](https://github.com/zpao/qrcode.react) ⭐ 4,285 | 🐛 37 | 🌐 TypeScript | 📅 2026-09-01 - A `<QRCode/>` component for use with React.
 
 ### React Native
 
@@ -92,7 +92,7 @@ that the library allows to generate QR codes.
 
 ### C\#
 
-* [QRCoder `W`](https://github.com/codebude/QRCoder) ⭐ 5,157 | 🐛 29 | 🌐 C# | 📅 2026-08-23 - A pure C# Open Source QR code implementation.
+* [QRCoder `W`](https://github.com/codebude/QRCoder) ⭐ 5,158 | 🐛 29 | 🌐 C# | 📅 2026-08-23 - A pure C# Open Source QR code implementation.
 
 ### Android
 
@@ -103,7 +103,7 @@ that the library allows to generate QR codes.
 
 * [endroid/qr-code `W`](https://github.com/endroid/qr-code) ⭐ 4,806 | 🐛 14 | 🌐 PHP | 📅 2026-02-05 - QR code generator.
 * [simple-qrcode `W`](https://github.com/SimpleSoftwareIO/simple-qrcode) ⭐ 2,901 | 🐛 58 | 🌐 PHP | 📅 2024-08-12 - An easy-to-use PHP QR code generator.
-* [BaconQRCode `W`](https://github.com/Bacon/BaconQRCode) ⭐ 2,089 | 🐛 7 | 🌐 PHP | 📅 2026-04-05 - QR code generator for PHP.
+* [BaconQRCode `W`](https://github.com/Bacon/BaconQRCode) ⭐ 2,088 | 🐛 7 | 🌐 PHP | 📅 2026-04-05 - QR code generator for PHP.
 * [php-qrcode-detector-decoder `R`](https://github.com/khanamiryan/php-qrcode-detector-decoder) ⭐ 1,412 | 🐛 81 | 🌐 PHP | 📅 2025-07-10 - PHP library to detect and decode QR codes.
 
 ## Resources
@@ -120,4 +120,4 @@ If you have any question about this opinionated list, do not hesitate to open an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._

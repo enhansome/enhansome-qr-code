@@ -17,8 +17,8 @@
                 "id": 311518932,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-08-20T22:15:42Z",
-                "open_issues": 13,
+                "last_commit": "2026-09-02T17:44:40Z",
+                "open_issues": 14,
                 "owner": "gokulkrishh",
                 "repo": "qrcodescan.in",
                 "stars": 290,
@@ -251,10 +251,10 @@
                 "language": "Java",
                 "license": null,
                 "last_commit": "2026-08-31T19:37:04Z",
-                "open_issues": 13,
+                "open_issues": 12,
                 "owner": "nayuki",
                 "repo": "QR-Code-generator",
-                "stars": 6744,
+                "stars": 6748,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -429,7 +429,7 @@
                 "open_issues": 37,
                 "owner": "zpao",
                 "repo": "qrcode.react",
-                "stars": 4284,
+                "stars": 4285,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
@@ -681,7 +681,7 @@
                 "open_issues": 29,
                 "owner": "Shane32",
                 "repo": "QRCoder",
-                "stars": 5157,
+                "stars": 5158,
                 "topics": [
                   "barcode",
                   "c-sharp",
@@ -834,7 +834,7 @@
                 "open_issues": 7,
                 "owner": "Bacon",
                 "repo": "BaconQrCode",
-                "stars": 2089,
+                "stars": 2088,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
@@ -875,7 +875,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T17:50:21.758Z",
+    "last_updated": "2026-09-02T17:55:15.774Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome QR code libraries, software and resources",
