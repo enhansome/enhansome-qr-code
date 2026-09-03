@@ -251,10 +251,10 @@
                 "language": "Java",
                 "license": null,
                 "last_commit": "2026-08-31T19:37:04Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "nayuki",
                 "repo": "QR-Code-generator",
-                "stars": 6748,
+                "stars": 6750,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -393,7 +393,7 @@
                 "open_issues": 97,
                 "owner": "cozmo",
                 "repo": "jsQR",
-                "stars": 4026,
+                "stars": 4027,
                 "topics": [
                   "qr",
                   "qr-code",
@@ -491,7 +491,7 @@
                 "open_issues": 4,
                 "owner": "gruhn",
                 "repo": "vue-qrcode-reader",
-                "stars": 2308,
+                "stars": 2307,
                 "topics": [
                   "barcode",
                   "barcode-reader",
@@ -805,7 +805,7 @@
                 "open_issues": 58,
                 "owner": "SimpleSoftwareIO",
                 "repo": "simple-qrcode",
-                "stars": 2901,
+                "stars": 2900,
                 "topics": [
                   "hacktoberfest",
                   "laravel",
@@ -875,7 +875,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T17:55:15.774Z",
+    "last_updated": "2026-09-03T17:53:04.094Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome QR code libraries, software and resources",
