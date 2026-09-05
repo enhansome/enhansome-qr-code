@@ -59,7 +59,7 @@
                 "open_issues": 13,
                 "owner": "claudiodangelis",
                 "repo": "qrcp",
-                "stars": 10513,
+                "stars": 10510,
                 "topics": [
                   "cli",
                   "command-line",
@@ -226,7 +226,7 @@
                 "open_issues": 67,
                 "owner": "fukuchi",
                 "repo": "libqrencode",
-                "stars": 3027,
+                "stars": 3028,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
@@ -254,7 +254,7 @@
                 "open_issues": 13,
                 "owner": "nayuki",
                 "repo": "QR-Code-generator",
-                "stars": 6751,
+                "stars": 6753,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -359,7 +359,7 @@
                 "open_issues": 44,
                 "owner": "airmrcr",
                 "repo": "qrious",
-                "stars": 1617,
+                "stars": 1616,
                 "topics": [
                   "browser",
                   "javascript",
@@ -429,7 +429,7 @@
                 "open_issues": 37,
                 "owner": "zpao",
                 "repo": "qrcode.react",
-                "stars": 4285,
+                "stars": 4283,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
@@ -534,7 +534,7 @@
                 "open_issues": 66,
                 "owner": "x-hw",
                 "repo": "amazing-qr",
-                "stars": 10813,
+                "stars": 10812,
                 "topics": [
                   "amazing",
                   "gif",
@@ -718,7 +718,7 @@
                 "open_issues": 250,
                 "owner": "bingoogolapple",
                 "repo": "BGAQRCode-Android",
-                "stars": 8007,
+                "stars": 8008,
                 "topics": [
                   "qrcode",
                   "qrcode-android",
@@ -805,7 +805,7 @@
                 "open_issues": 58,
                 "owner": "SimpleSoftwareIO",
                 "repo": "simple-qrcode",
-                "stars": 2900,
+                "stars": 2899,
                 "topics": [
                   "hacktoberfest",
                   "laravel",
@@ -875,7 +875,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T17:37:51.459Z",
+    "last_updated": "2026-09-05T16:50:46.036Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome QR code libraries, software and resources",
