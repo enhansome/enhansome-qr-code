@@ -17,8 +17,8 @@
                 "id": 311518932,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-02T17:44:40Z",
-                "open_issues": 14,
+                "last_commit": "2026-09-07T14:06:41Z",
+                "open_issues": 15,
                 "owner": "gokulkrishh",
                 "repo": "qrcodescan.in",
                 "stars": 290,
@@ -56,7 +56,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-05-18T20:44:55Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "claudiodangelis",
                 "repo": "qrcp",
                 "stars": 10511,
@@ -86,7 +86,7 @@
                 "open_issues": 5,
                 "owner": "sdushantha",
                 "repo": "qr-filetransfer",
-                "stars": 1029,
+                "stars": 1031,
                 "topics": [
                   "command-line-tool",
                   "file-sharing",
@@ -254,7 +254,7 @@
                 "open_issues": 13,
                 "owner": "nayuki",
                 "repo": "QR-Code-generator",
-                "stars": 6753,
+                "stars": 6754,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -425,11 +425,11 @@
                 "id": 17810823,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-01T07:05:27Z",
+                "last_commit": "2026-09-07T07:03:56Z",
                 "open_issues": 37,
                 "owner": "zpao",
                 "repo": "qrcode.react",
-                "stars": 4284,
+                "stars": 4283,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
@@ -534,7 +534,7 @@
                 "open_issues": 66,
                 "owner": "x-hw",
                 "repo": "amazing-qr",
-                "stars": 10813,
+                "stars": 10814,
                 "topics": [
                   "amazing",
                   "gif",
@@ -632,7 +632,7 @@
                 "open_issues": 5,
                 "owner": "EFPrefix",
                 "repo": "EFQRCode",
-                "stars": 4756,
+                "stars": 4755,
                 "topics": [
                   "barcode",
                   "barcode-generator",
@@ -875,7 +875,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T17:05:48.806Z",
+    "last_updated": "2026-09-07T18:45:04.049Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome QR code libraries, software and resources",
