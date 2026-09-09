@@ -226,7 +226,7 @@
                 "open_issues": 67,
                 "owner": "fukuchi",
                 "repo": "libqrencode",
-                "stars": 3028,
+                "stars": 3026,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
@@ -254,7 +254,7 @@
                 "open_issues": 13,
                 "owner": "nayuki",
                 "repo": "QR-Code-generator",
-                "stars": 6758,
+                "stars": 6759,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -491,7 +491,7 @@
                 "open_issues": 4,
                 "owner": "gruhn",
                 "repo": "vue-qrcode-reader",
-                "stars": 2307,
+                "stars": 2309,
                 "topics": [
                   "barcode",
                   "barcode-reader",
@@ -534,7 +534,7 @@
                 "open_issues": 66,
                 "owner": "x-hw",
                 "repo": "amazing-qr",
-                "stars": 10814,
+                "stars": 10816,
                 "topics": [
                   "amazing",
                   "gif",
@@ -681,7 +681,7 @@
                 "open_issues": 29,
                 "owner": "Shane32",
                 "repo": "QRCoder",
-                "stars": 5158,
+                "stars": 5157,
                 "topics": [
                   "barcode",
                   "c-sharp",
@@ -875,7 +875,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T17:56:28.086Z",
+    "last_updated": "2026-09-09T17:51:11.975Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome QR code libraries, software and resources",
