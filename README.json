@@ -59,7 +59,7 @@
                 "open_issues": 14,
                 "owner": "claudiodangelis",
                 "repo": "qrcp",
-                "stars": 10511,
+                "stars": 10512,
                 "topics": [
                   "cli",
                   "command-line",
@@ -601,7 +601,7 @@
                 "open_issues": 13,
                 "owner": "kingsic",
                 "repo": "SGQRCode",
-                "stars": 1697,
+                "stars": 1696,
                 "topics": [
                   "barcode",
                   "qrcode"
@@ -681,7 +681,7 @@
                 "open_issues": 29,
                 "owner": "Shane32",
                 "repo": "QRCoder",
-                "stars": 5157,
+                "stars": 5156,
                 "topics": [
                   "barcode",
                   "c-sharp",
@@ -718,7 +718,7 @@
                 "open_issues": 250,
                 "owner": "bingoogolapple",
                 "repo": "BGAQRCode-Android",
-                "stars": 8006,
+                "stars": 8007,
                 "topics": [
                   "qrcode",
                   "qrcode-android",
@@ -744,7 +744,7 @@
                 "open_issues": 21,
                 "owner": "sumimakito",
                 "repo": "AwesomeQRCode",
-                "stars": 1914,
+                "stars": 1913,
                 "topics": [
                   "qr-code",
                   "qr-generator",
@@ -834,7 +834,7 @@
                 "open_issues": 7,
                 "owner": "Bacon",
                 "repo": "BaconQrCode",
-                "stars": 2089,
+                "stars": 2090,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
@@ -875,7 +875,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T17:51:11.975Z",
+    "last_updated": "2026-09-10T17:43:17.026Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome QR code libraries, software and resources",
