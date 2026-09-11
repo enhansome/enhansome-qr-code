@@ -17,8 +17,8 @@
                 "id": 311518932,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-07T14:06:41Z",
-                "open_issues": 15,
+                "last_commit": "2026-09-11T01:51:06Z",
+                "open_issues": 16,
                 "owner": "gokulkrishh",
                 "repo": "qrcodescan.in",
                 "stars": 290,
@@ -132,7 +132,7 @@
             "open_issues": 9,
             "owner": "sayanarijit",
             "repo": "qrscan",
-            "stars": 188,
+            "stars": 187,
             "topics": [
               "camera",
               "command-line",
@@ -226,7 +226,7 @@
                 "open_issues": 67,
                 "owner": "fukuchi",
                 "repo": "libqrencode",
-                "stars": 3026,
+                "stars": 3028,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
@@ -254,7 +254,7 @@
                 "open_issues": 13,
                 "owner": "nayuki",
                 "repo": "QR-Code-generator",
-                "stars": 6759,
+                "stars": 6758,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -326,7 +326,7 @@
                 "open_issues": 193,
                 "owner": "schmich",
                 "repo": "instascan",
-                "stars": 3022,
+                "stars": 3021,
                 "topics": [
                   "browser",
                   "camera",
@@ -393,7 +393,7 @@
                 "open_issues": 97,
                 "owner": "cozmo",
                 "repo": "jsQR",
-                "stars": 4027,
+                "stars": 4029,
                 "topics": [
                   "qr",
                   "qr-code",
@@ -425,11 +425,11 @@
                 "id": 17810823,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-08T07:08:22Z",
+                "last_commit": "2026-09-11T07:02:39Z",
                 "open_issues": 37,
                 "owner": "zpao",
                 "repo": "qrcode.react",
-                "stars": 4284,
+                "stars": 4283,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
@@ -632,7 +632,7 @@
                 "open_issues": 5,
                 "owner": "EFPrefix",
                 "repo": "EFQRCode",
-                "stars": 4753,
+                "stars": 4752,
                 "topics": [
                   "barcode",
                   "barcode-generator",
@@ -677,8 +677,8 @@
                 "id": 13537369,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-08-23T16:34:45Z",
-                "open_issues": 29,
+                "last_commit": "2026-09-11T04:09:09Z",
+                "open_issues": 28,
                 "owner": "Shane32",
                 "repo": "QRCoder",
                 "stars": 5156,
@@ -744,7 +744,7 @@
                 "open_issues": 21,
                 "owner": "sumimakito",
                 "repo": "AwesomeQRCode",
-                "stars": 1913,
+                "stars": 1912,
                 "topics": [
                   "qr-code",
                   "qr-generator",
@@ -777,7 +777,7 @@
                 "open_issues": 14,
                 "owner": "endroid",
                 "repo": "qr-code",
-                "stars": 4806,
+                "stars": 4808,
                 "topics": [
                   "data-uri",
                   "factory",
@@ -805,7 +805,7 @@
                 "open_issues": 58,
                 "owner": "SimpleSoftwareIO",
                 "repo": "simple-qrcode",
-                "stars": 2899,
+                "stars": 2900,
                 "topics": [
                   "hacktoberfest",
                   "laravel",
@@ -834,7 +834,7 @@
                 "open_issues": 7,
                 "owner": "Bacon",
                 "repo": "BaconQrCode",
-                "stars": 2090,
+                "stars": 2094,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
@@ -855,7 +855,7 @@
                 "open_issues": 81,
                 "owner": "khanamiryan",
                 "repo": "php-qrcode-detector-decoder",
-                "stars": 1412,
+                "stars": 1413,
                 "topics": [
                   "decode-qr-codes",
                   "decoder",
@@ -875,7 +875,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T17:43:17.026Z",
+    "last_updated": "2026-09-11T17:45:50.498Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome QR code libraries, software and resources",
