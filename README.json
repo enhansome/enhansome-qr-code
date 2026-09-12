@@ -457,7 +457,7 @@
                 "open_issues": 123,
                 "owner": "moaazsidat",
                 "repo": "react-native-qrcode-scanner",
-                "stars": 2034,
+                "stars": 2032,
                 "topics": [
                   "barcode",
                   "camera",
@@ -744,7 +744,7 @@
                 "open_issues": 21,
                 "owner": "sumimakito",
                 "repo": "AwesomeQRCode",
-                "stars": 1912,
+                "stars": 1913,
                 "topics": [
                   "qr-code",
                   "qr-generator",
@@ -875,7 +875,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T17:45:50.498Z",
+    "last_updated": "2026-09-12T17:13:19.546Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome QR code libraries, software and resources",
