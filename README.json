@@ -226,7 +226,7 @@
                 "open_issues": 67,
                 "owner": "fukuchi",
                 "repo": "libqrencode",
-                "stars": 3030,
+                "stars": 3031,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
@@ -294,7 +294,7 @@
                 "open_issues": 7,
                 "owner": "scola",
                 "repo": "Qart",
-                "stars": 1084,
+                "stars": 1085,
                 "topics": [
                   "android",
                   "qart",
@@ -393,7 +393,7 @@
                 "open_issues": 97,
                 "owner": "cozmo",
                 "repo": "jsQR",
-                "stars": 4029,
+                "stars": 4031,
                 "topics": [
                   "qr",
                   "qr-code",
@@ -491,7 +491,7 @@
                 "open_issues": 4,
                 "owner": "gruhn",
                 "repo": "vue-qrcode-reader",
-                "stars": 2310,
+                "stars": 2311,
                 "topics": [
                   "barcode",
                   "barcode-reader",
@@ -525,12 +525,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "💮 amazing QRCode generator in Python (supporting animated gif) - Python amazing 二维码生成器（支持 gif 动态图片二维码）",
+                "description": "💮 amazing QRCode generator (supporting animated gif) - amazing 二维码生成器（支持 gif 动态图片二维码）",
                 "homepage": null,
                 "id": 66557478,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-25T14:11:47Z",
+                "last_commit": "2026-09-16T04:08:55Z",
                 "open_issues": 66,
                 "owner": "x-hw",
                 "repo": "amazing-qr",
@@ -538,10 +538,14 @@
                 "topics": [
                   "amazing",
                   "gif",
+                  "mcp",
                   "picture",
+                  "qr",
                   "qr-code",
+                  "qr-generator",
                   "qrcode",
-                  "qrcode-generator"
+                  "qrcode-generator",
+                  "skills"
                 ]
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
@@ -681,7 +685,7 @@
                 "open_issues": 28,
                 "owner": "Shane32",
                 "repo": "QRCoder",
-                "stars": 5159,
+                "stars": 5160,
                 "topics": [
                   "barcode",
                   "c-sharp",
@@ -718,7 +722,7 @@
                 "open_issues": 250,
                 "owner": "bingoogolapple",
                 "repo": "BGAQRCode-Android",
-                "stars": 8004,
+                "stars": 8005,
                 "topics": [
                   "qrcode",
                   "qrcode-android",
@@ -777,7 +781,7 @@
                 "open_issues": 14,
                 "owner": "endroid",
                 "repo": "qr-code",
-                "stars": 4807,
+                "stars": 4808,
                 "topics": [
                   "data-uri",
                   "factory",
@@ -805,7 +809,7 @@
                 "open_issues": 58,
                 "owner": "SimpleSoftwareIO",
                 "repo": "simple-qrcode",
-                "stars": 2900,
+                "stars": 2899,
                 "topics": [
                   "hacktoberfest",
                   "laravel",
@@ -830,11 +834,11 @@
                 "id": 8974570,
                 "language": "PHP",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-04-05T21:07:25Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-16T01:33:33Z",
+                "open_issues": 9,
                 "owner": "Bacon",
                 "repo": "BaconQrCode",
-                "stars": 2095,
+                "stars": 2098,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
@@ -875,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T18:14:12.358Z",
+    "last_updated": "2026-09-16T18:12:52.186Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome QR code libraries, software and resources",
