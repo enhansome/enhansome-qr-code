@@ -86,7 +86,7 @@
                 "open_issues": 5,
                 "owner": "sdushantha",
                 "repo": "qr-filetransfer",
-                "stars": 1032,
+                "stars": 1031,
                 "topics": [
                   "command-line-tool",
                   "file-sharing",
@@ -226,7 +226,7 @@
                 "open_issues": 68,
                 "owner": "fukuchi",
                 "repo": "libqrencode",
-                "stars": 3031,
+                "stars": 3032,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
@@ -254,7 +254,7 @@
                 "open_issues": 12,
                 "owner": "nayuki",
                 "repo": "QR-Code-generator",
-                "stars": 6780,
+                "stars": 6782,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -393,7 +393,7 @@
                 "open_issues": 98,
                 "owner": "cozmo",
                 "repo": "jsQR",
-                "stars": 4035,
+                "stars": 4036,
                 "topics": [
                   "qr",
                   "qr-code",
@@ -534,7 +534,7 @@
                 "open_issues": 66,
                 "owner": "x-hw",
                 "repo": "amazing-qr",
-                "stars": 10827,
+                "stars": 10826,
                 "topics": [
                   "amazing",
                   "gif",
@@ -722,7 +722,7 @@
                 "open_issues": 251,
                 "owner": "bingoogolapple",
                 "repo": "BGAQRCode-Android",
-                "stars": 8006,
+                "stars": 8007,
                 "topics": [
                   "qrcode",
                   "qrcode-android",
@@ -801,7 +801,7 @@
               "repo_info": {
                 "archived": false,
                 "description": "An easy-to-use PHP QrCode generator with first-party support for Laravel.",
-                "homepage": "https://www.simplesoftware.io/simple-qrcode",
+                "homepage": "https://github.com/SimpleSoftwareIO/simple-qrcode/blob/develop/docs/en/README.md",
                 "id": 20664530,
                 "language": "PHP",
                 "license": "MIT",
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T18:39:42.196Z",
+    "last_updated": "2026-09-26T17:46:18.138Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome QR code libraries, software and resources",
