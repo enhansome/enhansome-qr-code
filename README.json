@@ -226,7 +226,7 @@
                 "open_issues": 68,
                 "owner": "fukuchi",
                 "repo": "libqrencode",
-                "stars": 3032,
+                "stars": 3033,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
@@ -429,7 +429,7 @@
                 "open_issues": 37,
                 "owner": "zpao",
                 "repo": "qrcode.react",
-                "stars": 4286,
+                "stars": 4285,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
@@ -457,7 +457,7 @@
                 "open_issues": 123,
                 "owner": "moaazsidat",
                 "repo": "react-native-qrcode-scanner",
-                "stars": 2032,
+                "stars": 2031,
                 "topics": [
                   "barcode",
                   "camera",
@@ -534,7 +534,7 @@
                 "open_issues": 66,
                 "owner": "x-hw",
                 "repo": "amazing-qr",
-                "stars": 10826,
+                "stars": 10827,
                 "topics": [
                   "amazing",
                   "gif",
@@ -605,7 +605,7 @@
                 "open_issues": 13,
                 "owner": "kingsic",
                 "repo": "SGQRCode",
-                "stars": 1695,
+                "stars": 1694,
                 "topics": [
                   "barcode",
                   "qrcode"
@@ -838,7 +838,7 @@
                 "open_issues": 9,
                 "owner": "Bacon",
                 "repo": "BaconQrCode",
-                "stars": 2107,
+                "stars": 2109,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T17:46:18.138Z",
+    "last_updated": "2026-09-27T18:27:35.416Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome QR code libraries, software and resources",
