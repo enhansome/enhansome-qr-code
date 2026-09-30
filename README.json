@@ -55,11 +55,11 @@
                 "id": 117472496,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-05-18T20:44:55Z",
-                "open_issues": 14,
+                "last_commit": "2026-09-30T15:16:16Z",
+                "open_issues": 5,
                 "owner": "claudiodangelis",
                 "repo": "qrcp",
-                "stars": 10514,
+                "stars": 10516,
                 "topics": [
                   "cli",
                   "command-line",
@@ -254,7 +254,7 @@
                 "open_issues": 12,
                 "owner": "nayuki",
                 "repo": "QR-Code-generator",
-                "stars": 6783,
+                "stars": 6785,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -429,7 +429,7 @@
                 "open_issues": 37,
                 "owner": "zpao",
                 "repo": "qrcode.react",
-                "stars": 4285,
+                "stars": 4286,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
@@ -636,7 +636,7 @@
                 "open_issues": 5,
                 "owner": "EFPrefix",
                 "repo": "EFQRCode",
-                "stars": 4752,
+                "stars": 4753,
                 "topics": [
                   "barcode",
                   "barcode-generator",
@@ -685,7 +685,7 @@
                 "open_issues": 31,
                 "owner": "Shane32",
                 "repo": "QRCoder",
-                "stars": 5162,
+                "stars": 5164,
                 "topics": [
                   "barcode",
                   "c-sharp",
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T19:26:31.323Z",
+    "last_updated": "2026-09-30T19:24:09.692Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome QR code libraries, software and resources",
