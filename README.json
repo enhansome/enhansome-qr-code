@@ -55,7 +55,7 @@
                 "id": 117472496,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-30T15:16:16Z",
+                "last_commit": "2026-10-01T13:37:29Z",
                 "open_issues": 5,
                 "owner": "claudiodangelis",
                 "repo": "qrcp",
@@ -86,7 +86,7 @@
                 "open_issues": 5,
                 "owner": "sdushantha",
                 "repo": "qr-filetransfer",
-                "stars": 1031,
+                "stars": 1032,
                 "topics": [
                   "command-line-tool",
                   "file-sharing",
@@ -254,7 +254,7 @@
                 "open_issues": 12,
                 "owner": "nayuki",
                 "repo": "QR-Code-generator",
-                "stars": 6785,
+                "stars": 6786,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -359,7 +359,7 @@
                 "open_issues": 44,
                 "owner": "airmrcr",
                 "repo": "qrious",
-                "stars": 1617,
+                "stars": 1616,
                 "topics": [
                   "browser",
                   "javascript",
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T19:24:09.692Z",
+    "last_updated": "2026-10-01T19:34:18.424Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome QR code libraries, software and resources",
