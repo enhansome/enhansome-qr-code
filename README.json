@@ -59,7 +59,7 @@
                 "open_issues": 5,
                 "owner": "claudiodangelis",
                 "repo": "qrcp",
-                "stars": 10518,
+                "stars": 10517,
                 "topics": [
                   "cli",
                   "command-line",
@@ -251,10 +251,10 @@
                 "language": "Java",
                 "license": null,
                 "last_commit": "2026-08-31T19:37:04Z",
-                "open_issues": 12,
+                "open_issues": 11,
                 "owner": "nayuki",
                 "repo": "QR-Code-generator",
-                "stars": 6787,
+                "stars": 6786,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -685,7 +685,7 @@
                 "open_issues": 31,
                 "owner": "Shane32",
                 "repo": "QRCoder",
-                "stars": 5164,
+                "stars": 5165,
                 "topics": [
                   "barcode",
                   "c-sharp",
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:03:40.043Z",
+    "last_updated": "2026-10-03T17:58:54.811Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome QR code libraries, software and resources",
