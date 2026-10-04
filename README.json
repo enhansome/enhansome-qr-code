@@ -226,7 +226,7 @@
                 "open_issues": 69,
                 "owner": "fukuchi",
                 "repo": "libqrencode",
-                "stars": 3036,
+                "stars": 3037,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
@@ -254,7 +254,7 @@
                 "open_issues": 11,
                 "owner": "nayuki",
                 "repo": "QR-Code-generator",
-                "stars": 6786,
+                "stars": 6788,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T17:58:54.811Z",
+    "last_updated": "2026-10-04T18:11:19.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome QR code libraries, software and resources",
@@ -891,7 +891,7 @@
       "open_issues": 21,
       "owner": "make-github-pseudonymous-again",
       "repo": "awesome-qr-code",
-      "stars": 153,
+      "stars": 154,
       "topics": [
         "awesome",
         "awesome-list",
