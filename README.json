@@ -56,10 +56,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-10-01T13:37:29Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "claudiodangelis",
                 "repo": "qrcp",
-                "stars": 10517,
+                "stars": 10518,
                 "topics": [
                   "cli",
                   "command-line",
@@ -223,10 +223,10 @@
                 "language": "C",
                 "license": "LGPL-2.1",
                 "last_commit": "2025-10-10T06:30:58Z",
-                "open_issues": 69,
+                "open_issues": 70,
                 "owner": "fukuchi",
                 "repo": "libqrencode",
-                "stars": 3037,
+                "stars": 3036,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
@@ -254,7 +254,7 @@
                 "open_issues": 11,
                 "owner": "nayuki",
                 "repo": "QR-Code-generator",
-                "stars": 6788,
+                "stars": 6791,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -294,7 +294,7 @@
                 "open_issues": 7,
                 "owner": "scola",
                 "repo": "Qart",
-                "stars": 1085,
+                "stars": 1086,
                 "topics": [
                   "android",
                   "qart",
@@ -425,8 +425,8 @@
                 "id": 17810823,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T07:02:39Z",
-                "open_issues": 37,
+                "last_commit": "2026-10-05T07:00:03Z",
+                "open_issues": 36,
                 "owner": "zpao",
                 "repo": "qrcode.react",
                 "stars": 4286,
@@ -534,7 +534,7 @@
                 "open_issues": 66,
                 "owner": "x-hw",
                 "repo": "amazing-qr",
-                "stars": 10831,
+                "stars": 10832,
                 "topics": [
                   "amazing",
                   "gif",
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T18:11:19.289Z",
+    "last_updated": "2026-10-05T21:30:23.758Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome QR code libraries, software and resources",
