@@ -47,7 +47,7 @@ that the library allows to generate QR codes.
 
 ### C, C++, JavaScript, Python, Java, Rust
 
-* [QR-Code-generator `W`](https://github.com/nayuki/QR-Code-generator) ⭐ 6,791 | 🐛 11 | 🌐 Java | 📅 2026-08-31 - High-quality QR code generator library in Java, TypeScript/JavaScript, Python, C++, C, Rust.
+* [QR-Code-generator `W`](https://github.com/nayuki/QR-Code-generator) ⭐ 6,793 | 🐛 11 | 🌐 Java | 📅 2026-08-31 - High-quality QR code generator library in Java, TypeScript/JavaScript, Python, C++, C, Rust.
 
 ### Java
 
@@ -64,7 +64,7 @@ that the library allows to generate QR codes.
 
 ### React
 
-* [qrcode.react `W`](https://github.com/zpao/qrcode.react) ⭐ 4,286 | 🐛 36 | 🌐 TypeScript | 📅 2026-10-05 - A `<QRCode/>` component for use with React.
+* [qrcode.react `W`](https://github.com/zpao/qrcode.react) ⭐ 4,286 | 🐛 42 | 🌐 TypeScript | 📅 2026-10-06 - A `<QRCode/>` component for use with React.
 
 ### React Native
 
@@ -96,7 +96,7 @@ that the library allows to generate QR codes.
 
 ### Android
 
-* [BGAQRCode-Android `RW`](https://github.com/bingoogolapple/BGAQRCode-Android) ⭐ 8,007 | 🐛 251 | 🌐 C | 📅 2026-07-11 - QR code reader and generator written in C.
+* [BGAQRCode-Android `RW`](https://github.com/bingoogolapple/BGAQRCode-Android) ⭐ 8,008 | 🐛 251 | 🌐 C | 📅 2026-07-11 - QR code reader and generator written in C.
 * [AwesomeQRCode (Kotlin) `W`](https://github.com/SumiMakito/AwesomeQRCode) ⭐ 1,911 | 🐛 21 | 🌐 Kotlin | 📅 2023-12-02 - An awesome QR code generator for Android (can produce GIFs).
 
 ### PHP
@@ -108,7 +108,7 @@ that the library allows to generate QR codes.
 
 ## Resources
 
-* [zxing](https://github.com/zxing/zxing/wiki/Barcode-Contents) ⭐ 34,116 | 🐛 5 | 🌐 Java | 📅 2026-09-21 - QR code payload format catalog.
+* [zxing](https://github.com/zxing/zxing/wiki/Barcode-Contents) ⭐ 34,117 | 🐛 5 | 🌐 Java | 📅 2026-09-21 - QR code payload format catalog.
 
 ## Contributing
 
@@ -120,4 +120,4 @@ If you have any question about this opinionated list, do not hesitate to open an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._

@@ -254,7 +254,7 @@
                 "open_issues": 11,
                 "owner": "nayuki",
                 "repo": "QR-Code-generator",
-                "stars": 6791,
+                "stars": 6793,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -425,8 +425,8 @@
                 "id": 17810823,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-05T07:00:03Z",
-                "open_issues": 36,
+                "last_commit": "2026-10-06T07:08:43Z",
+                "open_issues": 42,
                 "owner": "zpao",
                 "repo": "qrcode.react",
                 "stars": 4286,
@@ -722,7 +722,7 @@
                 "open_issues": 251,
                 "owner": "bingoogolapple",
                 "repo": "BGAQRCode-Android",
-                "stars": 8007,
+                "stars": 8008,
                 "topics": [
                   "qrcode",
                   "qrcode-android",
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T21:30:23.758Z",
+    "last_updated": "2026-10-06T10:24:38.085Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome QR code libraries, software and resources",
