@@ -59,7 +59,7 @@
                 "open_issues": 6,
                 "owner": "claudiodangelis",
                 "repo": "qrcp",
-                "stars": 10518,
+                "stars": 10517,
                 "topics": [
                   "cli",
                   "command-line",
@@ -254,7 +254,7 @@
                 "open_issues": 11,
                 "owner": "nayuki",
                 "repo": "QR-Code-generator",
-                "stars": 6793,
+                "stars": 6791,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -393,7 +393,7 @@
                 "open_issues": 98,
                 "owner": "cozmo",
                 "repo": "jsQR",
-                "stars": 4037,
+                "stars": 4038,
                 "topics": [
                   "qr",
                   "qr-code",
@@ -636,7 +636,7 @@
                 "open_issues": 5,
                 "owner": "EFPrefix",
                 "repo": "EFQRCode",
-                "stars": 4752,
+                "stars": 4751,
                 "topics": [
                   "barcode",
                   "barcode-generator",
@@ -809,7 +809,7 @@
                 "open_issues": 58,
                 "owner": "SimpleSoftwareIO",
                 "repo": "simple-qrcode",
-                "stars": 2902,
+                "stars": 2901,
                 "topics": [
                   "hacktoberfest",
                   "laravel",
@@ -838,7 +838,7 @@
                 "open_issues": 9,
                 "owner": "Bacon",
                 "repo": "BaconQrCode",
-                "stars": 2110,
+                "stars": 2111,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
@@ -859,7 +859,7 @@
                 "open_issues": 81,
                 "owner": "khanamiryan",
                 "repo": "php-qrcode-detector-decoder",
-                "stars": 1413,
+                "stars": 1414,
                 "topics": [
                   "decode-qr-codes",
                   "decoder",
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:24:38.085Z",
+    "last_updated": "2026-10-06T19:34:27.816Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome QR code libraries, software and resources",
