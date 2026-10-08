@@ -59,7 +59,7 @@
                 "open_issues": 6,
                 "owner": "claudiodangelis",
                 "repo": "qrcp",
-                "stars": 10517,
+                "stars": 10516,
                 "topics": [
                   "cli",
                   "command-line",
@@ -132,7 +132,7 @@
             "open_issues": 9,
             "owner": "sayanarijit",
             "repo": "qrscan",
-            "stars": 187,
+            "stars": 185,
             "topics": [
               "camera",
               "command-line",
@@ -226,7 +226,7 @@
                 "open_issues": 70,
                 "owner": "fukuchi",
                 "repo": "libqrencode",
-                "stars": 3037,
+                "stars": 3039,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
@@ -254,7 +254,7 @@
                 "open_issues": 11,
                 "owner": "nayuki",
                 "repo": "QR-Code-generator",
-                "stars": 6789,
+                "stars": 6793,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -294,7 +294,7 @@
                 "open_issues": 7,
                 "owner": "scola",
                 "repo": "Qart",
-                "stars": 1086,
+                "stars": 1087,
                 "topics": [
                   "android",
                   "qart",
@@ -491,7 +491,7 @@
                 "open_issues": 3,
                 "owner": "gruhn",
                 "repo": "vue-qrcode-reader",
-                "stars": 2313,
+                "stars": 2314,
                 "topics": [
                   "barcode",
                   "barcode-reader",
@@ -534,7 +534,7 @@
                 "open_issues": 66,
                 "owner": "x-hw",
                 "repo": "amazing-qr",
-                "stars": 10832,
+                "stars": 10831,
                 "topics": [
                   "amazing",
                   "gif",
@@ -636,7 +636,7 @@
                 "open_issues": 5,
                 "owner": "EFPrefix",
                 "repo": "EFQRCode",
-                "stars": 4751,
+                "stars": 4752,
                 "topics": [
                   "barcode",
                   "barcode-generator",
@@ -685,7 +685,7 @@
                 "open_issues": 31,
                 "owner": "Shane32",
                 "repo": "QRCoder",
-                "stars": 5165,
+                "stars": 5167,
                 "topics": [
                   "barcode",
                   "c-sharp",
@@ -722,7 +722,7 @@
                 "open_issues": 251,
                 "owner": "bingoogolapple",
                 "repo": "BGAQRCode-Android",
-                "stars": 8007,
+                "stars": 8006,
                 "topics": [
                   "qrcode",
                   "qrcode-android",
@@ -748,7 +748,7 @@
                 "open_issues": 21,
                 "owner": "sumimakito",
                 "repo": "AwesomeQRCode",
-                "stars": 1911,
+                "stars": 1912,
                 "topics": [
                   "qr-code",
                   "qr-generator",
@@ -809,7 +809,7 @@
                 "open_issues": 58,
                 "owner": "SimpleSoftwareIO",
                 "repo": "simple-qrcode",
-                "stars": 2900,
+                "stars": 2901,
                 "topics": [
                   "hacktoberfest",
                   "laravel",
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T20:00:09.287Z",
+    "last_updated": "2026-10-08T19:58:33.612Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome QR code libraries, software and resources",
