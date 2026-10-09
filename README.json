@@ -59,7 +59,7 @@
                 "open_issues": 6,
                 "owner": "claudiodangelis",
                 "repo": "qrcp",
-                "stars": 10516,
+                "stars": 10515,
                 "topics": [
                   "cli",
                   "command-line",
@@ -226,7 +226,7 @@
                 "open_issues": 70,
                 "owner": "fukuchi",
                 "repo": "libqrencode",
-                "stars": 3039,
+                "stars": 3040,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
@@ -326,7 +326,7 @@
                 "open_issues": 193,
                 "owner": "schmich",
                 "repo": "instascan",
-                "stars": 3021,
+                "stars": 3022,
                 "topics": [
                   "browser",
                   "camera",
@@ -393,7 +393,7 @@
                 "open_issues": 98,
                 "owner": "cozmo",
                 "repo": "jsQR",
-                "stars": 4038,
+                "stars": 4039,
                 "topics": [
                   "qr",
                   "qr-code",
@@ -425,7 +425,7 @@
                 "id": 17810823,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-06T07:08:43Z",
+                "last_commit": "2026-10-09T06:59:24Z",
                 "open_issues": 42,
                 "owner": "zpao",
                 "repo": "qrcode.react",
@@ -534,7 +534,7 @@
                 "open_issues": 66,
                 "owner": "x-hw",
                 "repo": "amazing-qr",
-                "stars": 10831,
+                "stars": 10830,
                 "topics": [
                   "amazing",
                   "gif",
@@ -809,7 +809,7 @@
                 "open_issues": 58,
                 "owner": "SimpleSoftwareIO",
                 "repo": "simple-qrcode",
-                "stars": 2901,
+                "stars": 2900,
                 "topics": [
                   "hacktoberfest",
                   "laravel",
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T19:58:33.612Z",
+    "last_updated": "2026-10-09T19:33:31.217Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome QR code libraries, software and resources",
