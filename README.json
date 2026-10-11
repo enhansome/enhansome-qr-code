@@ -59,7 +59,7 @@
                 "open_issues": 6,
                 "owner": "claudiodangelis",
                 "repo": "qrcp",
-                "stars": 10515,
+                "stars": 10516,
                 "topics": [
                   "cli",
                   "command-line",
@@ -573,7 +573,7 @@
                 "open_issues": 0,
                 "owner": "whomwah",
                 "repo": "rqrcode",
-                "stars": 2001,
+                "stars": 2002,
                 "topics": [
                   "qrcode",
                   "qrcode-generator",
@@ -722,7 +722,7 @@
                 "open_issues": 251,
                 "owner": "bingoogolapple",
                 "repo": "BGAQRCode-Android",
-                "stars": 8006,
+                "stars": 8007,
                 "topics": [
                   "qrcode",
                   "qrcode-android",
@@ -781,7 +781,7 @@
                 "open_issues": 14,
                 "owner": "endroid",
                 "repo": "qr-code",
-                "stars": 4812,
+                "stars": 4813,
                 "topics": [
                   "data-uri",
                   "factory",
@@ -838,7 +838,7 @@
                 "open_issues": 9,
                 "owner": "Bacon",
                 "repo": "BaconQrCode",
-                "stars": 2110,
+                "stars": 2111,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T18:39:29.454Z",
+    "last_updated": "2026-10-11T18:57:27.752Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome QR code libraries, software and resources",
