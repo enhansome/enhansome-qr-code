@@ -86,7 +86,7 @@
                 "open_issues": 5,
                 "owner": "sdushantha",
                 "repo": "qr-filetransfer",
-                "stars": 1032,
+                "stars": 1033,
                 "topics": [
                   "command-line-tool",
                   "file-sharing",
@@ -223,10 +223,10 @@
                 "language": "C",
                 "license": "LGPL-2.1",
                 "last_commit": "2025-10-10T06:30:58Z",
-                "open_issues": 70,
+                "open_issues": 71,
                 "owner": "fukuchi",
                 "repo": "libqrencode",
-                "stars": 3040,
+                "stars": 3039,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
@@ -254,7 +254,7 @@
                 "open_issues": 11,
                 "owner": "nayuki",
                 "repo": "QR-Code-generator",
-                "stars": 6792,
+                "stars": 6794,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -393,7 +393,7 @@
                 "open_issues": 98,
                 "owner": "cozmo",
                 "repo": "jsQR",
-                "stars": 4040,
+                "stars": 4041,
                 "topics": [
                   "qr",
                   "qr-code",
@@ -457,7 +457,7 @@
                 "open_issues": 123,
                 "owner": "moaazsidat",
                 "repo": "react-native-qrcode-scanner",
-                "stars": 2030,
+                "stars": 2031,
                 "topics": [
                   "barcode",
                   "camera",
@@ -681,11 +681,11 @@
                 "id": 13537369,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-11T04:09:09Z",
-                "open_issues": 31,
+                "last_commit": "2026-10-13T03:48:43Z",
+                "open_issues": 30,
                 "owner": "Shane32",
                 "repo": "QRCoder",
-                "stars": 5167,
+                "stars": 5166,
                 "topics": [
                   "barcode",
                   "c-sharp",
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T22:09:14.604Z",
+    "last_updated": "2026-10-13T20:16:07.844Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome QR code libraries, software and resources",
