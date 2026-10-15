@@ -390,10 +390,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-05-15T21:13:24Z",
-                "open_issues": 98,
+                "open_issues": 97,
                 "owner": "cozmo",
                 "repo": "jsQR",
-                "stars": 4041,
+                "stars": 4042,
                 "topics": [
                   "qr",
                   "qr-code",
@@ -425,11 +425,11 @@
                 "id": 17810823,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-14T16:22:24Z",
+                "last_commit": "2026-10-15T07:07:08Z",
                 "open_issues": 42,
                 "owner": "zpao",
                 "repo": "qrcode.react",
-                "stars": 4288,
+                "stars": 4289,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
@@ -457,7 +457,7 @@
                 "open_issues": 123,
                 "owner": "moaazsidat",
                 "repo": "react-native-qrcode-scanner",
-                "stars": 2031,
+                "stars": 2032,
                 "topics": [
                   "barcode",
                   "camera",
@@ -534,7 +534,7 @@
                 "open_issues": 66,
                 "owner": "x-hw",
                 "repo": "amazing-qr",
-                "stars": 10833,
+                "stars": 10835,
                 "topics": [
                   "amazing",
                   "gif",
@@ -685,7 +685,7 @@
                 "open_issues": 30,
                 "owner": "Shane32",
                 "repo": "QRCoder",
-                "stars": 5166,
+                "stars": 5167,
                 "topics": [
                   "barcode",
                   "c-sharp",
@@ -809,7 +809,7 @@
                 "open_issues": 58,
                 "owner": "SimpleSoftwareIO",
                 "repo": "simple-qrcode",
-                "stars": 2900,
+                "stars": 2899,
                 "topics": [
                   "hacktoberfest",
                   "laravel",
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T18:40:01.847Z",
+    "last_updated": "2026-10-15T18:19:56.220Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome QR code libraries, software and resources",
