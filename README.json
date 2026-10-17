@@ -254,7 +254,7 @@
                 "open_issues": 11,
                 "owner": "nayuki",
                 "repo": "QR-Code-generator",
-                "stars": 6794,
+                "stars": 6793,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -359,7 +359,7 @@
                 "open_issues": 44,
                 "owner": "airmrcr",
                 "repo": "qrious",
-                "stars": 1616,
+                "stars": 1617,
                 "topics": [
                   "browser",
                   "javascript",
@@ -390,10 +390,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-05-15T21:13:24Z",
-                "open_issues": 97,
+                "open_issues": 98,
                 "owner": "cozmo",
                 "repo": "jsQR",
-                "stars": 4042,
+                "stars": 4040,
                 "topics": [
                   "qr",
                   "qr-code",
@@ -425,11 +425,11 @@
                 "id": 17810823,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-16T07:08:15Z",
-                "open_issues": 42,
+                "last_commit": "2026-10-17T11:12:20Z",
+                "open_issues": 43,
                 "owner": "zpao",
                 "repo": "qrcode.react",
-                "stars": 4289,
+                "stars": 4290,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
@@ -534,7 +534,7 @@
                 "open_issues": 66,
                 "owner": "x-hw",
                 "repo": "amazing-qr",
-                "stars": 10836,
+                "stars": 10838,
                 "topics": [
                   "amazing",
                   "gif",
@@ -781,7 +781,7 @@
                 "open_issues": 14,
                 "owner": "endroid",
                 "repo": "qr-code",
-                "stars": 4814,
+                "stars": 4815,
                 "topics": [
                   "data-uri",
                   "factory",
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T18:05:58.925Z",
+    "last_updated": "2026-10-17T17:14:33.962Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome QR code libraries, software and resources",
