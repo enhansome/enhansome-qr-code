@@ -59,7 +59,7 @@
                 "open_issues": 6,
                 "owner": "claudiodangelis",
                 "repo": "qrcp",
-                "stars": 10519,
+                "stars": 10521,
                 "topics": [
                   "cli",
                   "command-line",
@@ -393,7 +393,7 @@
                 "open_issues": 98,
                 "owner": "cozmo",
                 "repo": "jsQR",
-                "stars": 4041,
+                "stars": 4042,
                 "topics": [
                   "qr",
                   "qr-code",
@@ -429,7 +429,7 @@
                 "open_issues": 44,
                 "owner": "zpao",
                 "repo": "qrcode.react",
-                "stars": 4291,
+                "stars": 4292,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
@@ -534,7 +534,7 @@
                 "open_issues": 66,
                 "owner": "x-hw",
                 "repo": "amazing-qr",
-                "stars": 10837,
+                "stars": 10836,
                 "topics": [
                   "amazing",
                   "gif",
@@ -605,7 +605,7 @@
                 "open_issues": 13,
                 "owner": "kingsic",
                 "repo": "SGQRCode",
-                "stars": 1694,
+                "stars": 1693,
                 "topics": [
                   "barcode",
                   "qrcode"
@@ -685,7 +685,7 @@
                 "open_issues": 32,
                 "owner": "Shane32",
                 "repo": "QRCoder",
-                "stars": 5167,
+                "stars": 5170,
                 "topics": [
                   "barcode",
                   "c-sharp",
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T19:58:26.044Z",
+    "last_updated": "2026-10-20T18:28:56.371Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome QR code libraries, software and resources",
