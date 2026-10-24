@@ -59,7 +59,7 @@
                 "open_issues": 6,
                 "owner": "claudiodangelis",
                 "repo": "qrcp",
-                "stars": 10523,
+                "stars": 10525,
                 "topics": [
                   "cli",
                   "command-line",
@@ -226,7 +226,7 @@
                 "open_issues": 71,
                 "owner": "fukuchi",
                 "repo": "libqrencode",
-                "stars": 3047,
+                "stars": 3048,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
@@ -254,7 +254,7 @@
                 "open_issues": 12,
                 "owner": "nayuki",
                 "repo": "QR-Code-generator",
-                "stars": 6802,
+                "stars": 6803,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -429,7 +429,7 @@
                 "open_issues": 44,
                 "owner": "zpao",
                 "repo": "qrcode.react",
-                "stars": 4294,
+                "stars": 4295,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
@@ -636,7 +636,7 @@
                 "open_issues": 5,
                 "owner": "EFPrefix",
                 "repo": "EFQRCode",
-                "stars": 4753,
+                "stars": 4754,
                 "topics": [
                   "barcode",
                   "barcode-generator",
@@ -682,7 +682,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-13T03:48:43Z",
-                "open_issues": 32,
+                "open_issues": 33,
                 "owner": "Shane32",
                 "repo": "QRCoder",
                 "stars": 5170,
@@ -806,7 +806,7 @@
                 "language": "PHP",
                 "license": "MIT",
                 "last_commit": "2024-08-12T08:42:45Z",
-                "open_issues": 58,
+                "open_issues": 59,
                 "owner": "SimpleSoftwareIO",
                 "repo": "simple-qrcode",
                 "stars": 2897,
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T18:23:52.271Z",
+    "last_updated": "2026-10-24T17:28:35.099Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome QR code libraries, software and resources",
