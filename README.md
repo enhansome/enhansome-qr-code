@@ -25,8 +25,8 @@ A curated list of awesome QR code libraries, software and resources.
 
 ### File Transfer
 
-* [qrcp](https://github.com/claudiodangelis/qrcp) ⭐ 10,525 | 🐛 6 | 🌐 Go | 📅 2026-10-01 - Transfer files over Wi-Fi from your computer to a mobile device by scanning a QR code without leaving the terminal.
-* [qr-filetransfer](https://github.com/sdushantha/qr-filetransfer) ⭐ 1,033 | 🐛 5 | 🌐 Python | 📅 2024-04-10 - Transfer files over Wi-Fi between your computer and your smartphone from the terminal.
+* [qrcp](https://github.com/claudiodangelis/qrcp) ⭐ 10,524 | 🐛 6 | 🌐 Go | 📅 2026-10-01 - Transfer files over Wi-Fi from your computer to a mobile device by scanning a QR code without leaving the terminal.
+* [qr-filetransfer](https://github.com/sdushantha/qr-filetransfer) ⭐ 1,032 | 🐛 5 | 🌐 Python | 📅 2024-04-10 - Transfer files over Wi-Fi between your computer and your smartphone from the terminal.
 
 ## CLI
 
@@ -47,7 +47,7 @@ that the library allows to generate QR codes.
 
 ### C, C++, JavaScript, Python, Java, Rust
 
-* [QR-Code-generator `W`](https://github.com/nayuki/QR-Code-generator) ⭐ 6,804 | 🐛 13 | 🌐 Java | 📅 2026-08-31 - High-quality QR code generator library in Java, TypeScript/JavaScript, Python, C++, C, Rust.
+* [QR-Code-generator `W`](https://github.com/nayuki/QR-Code-generator) ⭐ 6,806 | 🐛 13 | 🌐 Java | 📅 2026-08-31 - High-quality QR code generator library in Java, TypeScript/JavaScript, Python, C++, C, Rust.
 
 ### Java
 
@@ -55,12 +55,12 @@ that the library allows to generate QR codes.
 
 ### JavaScript
 
-* [instascan `R`](https://github.com/schmich/instascan) ⭐ 3,020 | 🐛 193 | 🌐 JavaScript | 📅 2021-12-15 - HTML5 QR code scanner using your webcam.
+* [instascan `R`](https://github.com/schmich/instascan) ⭐ 3,019 | 🐛 193 | 🌐 JavaScript | 📅 2021-12-15 - HTML5 QR code scanner using your webcam.
 * [qrious `W`](https://github.com/neocotic/qrious) ⭐ 1,617 | 🐛 44 | 🌐 JavaScript | 📅 2024-06-18 - Pure JavaScript library for QR code generation using canvas.
 
 ### TypeScript
 
-* [jsQR `R`](https://github.com/cozmo/jsQR) ⭐ 4,046 | 🐛 98 | 🌐 TypeScript | 📅 2026-05-15 - A pure JavaScript QR code reading library.
+* [jsQR `R`](https://github.com/cozmo/jsQR) ⭐ 4,048 | 🐛 98 | 🌐 TypeScript | 📅 2026-05-15 - A pure JavaScript QR code reading library.
 
 ### React
 
@@ -76,15 +76,15 @@ that the library allows to generate QR codes.
 
 ### Python
 
-* [sylnsfar/qrcode `W`](https://github.com/sylnsfar/qrcode) ⭐ 10,843 | 🐛 68 | 🌐 Python | 📅 2026-09-17 - Artistic QR code in Python (can produce GIFs).
+* [sylnsfar/qrcode `W`](https://github.com/sylnsfar/qrcode) ⭐ 10,845 | 🐛 68 | 🌐 Python | 📅 2026-09-17 - Artistic QR code in Python (can produce GIFs).
 
 ### Ruby
 
-* [rqrcode `W`](https://github.com/whomwah/rqrcode) ⭐ 2,002 | 🐛 1 | 🌐 Ruby | 📅 2026-06-01 - A neat Ruby QR code generator exporting to `svg`, `png` and `ansi` with configurable size, color and other attributes.
+* [rqrcode `W`](https://github.com/whomwah/rqrcode) ⭐ 2,003 | 🐛 1 | 🌐 Ruby | 📅 2026-06-01 - A neat Ruby QR code generator exporting to `svg`, `png` and `ansi` with configurable size, color and other attributes.
 
 ### Objective-C
 
-* [SGQRCode `R`](https://github.com/kingsic/SGQRCode) ⭐ 1,693 | 🐛 13 | 🌐 Objective-C | 📅 2024-02-02 - Easy to use QR code scan library for iOS.
+* [SGQRCode `R`](https://github.com/kingsic/SGQRCode) ⭐ 1,692 | 🐛 13 | 🌐 Objective-C | 📅 2024-02-02 - Easy to use QR code scan library for iOS.
 
 ### Swift
 
@@ -92,7 +92,7 @@ that the library allows to generate QR codes.
 
 ### C\#
 
-* [QRCoder `W`](https://github.com/codebude/QRCoder) ⭐ 5,173 | 🐛 34 | 🌐 C# | 📅 2026-10-13 - A pure C# Open Source QR code implementation.
+* [QRCoder `W`](https://github.com/codebude/QRCoder) ⭐ 5,174 | 🐛 34 | 🌐 C# | 📅 2026-10-13 - A pure C# Open Source QR code implementation.
 
 ### Android
 
@@ -108,7 +108,7 @@ that the library allows to generate QR codes.
 
 ## Resources
 
-* [zxing](https://github.com/zxing/zxing/wiki/Barcode-Contents) ⭐ 34,185 | 🐛 5 | 🌐 Java | 📅 2026-10-26 - QR code payload format catalog.
+* [zxing](https://github.com/zxing/zxing/wiki/Barcode-Contents) ⭐ 34,183 | 🐛 0 | 🌐 Java | 📅 2026-10-28 - QR code payload format catalog.
 
 ## Contributing
 
@@ -120,4 +120,4 @@ If you have any question about this opinionated list, do not hesitate to open an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
