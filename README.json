@@ -250,11 +250,11 @@
                 "id": 56284158,
                 "language": "Java",
                 "license": null,
-                "last_commit": "2026-08-31T19:37:04Z",
-                "open_issues": 14,
+                "last_commit": "2026-10-30T01:37:02Z",
+                "open_issues": 13,
                 "owner": "nayuki",
                 "repo": "QR-Code-generator",
-                "stars": 6805,
+                "stars": 6807,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -491,7 +491,7 @@
                 "open_issues": 3,
                 "owner": "gruhn",
                 "repo": "vue-qrcode-reader",
-                "stars": 2315,
+                "stars": 2314,
                 "topics": [
                   "barcode",
                   "barcode-reader",
@@ -534,7 +534,7 @@
                 "open_issues": 68,
                 "owner": "x-hw",
                 "repo": "amazing-qr",
-                "stars": 10847,
+                "stars": 10849,
                 "topics": [
                   "amazing",
                   "gif",
@@ -685,7 +685,7 @@
                 "open_issues": 34,
                 "owner": "Shane32",
                 "repo": "QRCoder",
-                "stars": 5174,
+                "stars": 5175,
                 "topics": [
                   "barcode",
                   "c-sharp",
@@ -722,7 +722,7 @@
                 "open_issues": 251,
                 "owner": "bingoogolapple",
                 "repo": "BGAQRCode-Android",
-                "stars": 8007,
+                "stars": 8008,
                 "topics": [
                   "qrcode",
                   "qrcode-android",
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T19:40:21.734Z",
+    "last_updated": "2026-10-30T19:25:45.916Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome QR code libraries, software and resources",
@@ -888,7 +888,7 @@
       "language": null,
       "license": "CC-BY-SA-4.0",
       "last_commit": "2026-02-13T15:39:11Z",
-      "open_issues": 26,
+      "open_issues": 27,
       "owner": "make-github-pseudonymous-again",
       "repo": "awesome-qr-code",
       "stars": 155,
