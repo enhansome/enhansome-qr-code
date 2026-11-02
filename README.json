@@ -226,7 +226,7 @@
                 "open_issues": 71,
                 "owner": "fukuchi",
                 "repo": "libqrencode",
-                "stars": 3050,
+                "stars": 3051,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
@@ -254,7 +254,7 @@
                 "open_issues": 13,
                 "owner": "nayuki",
                 "repo": "QR-Code-generator",
-                "stars": 6806,
+                "stars": 6809,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -457,7 +457,7 @@
                 "open_issues": 123,
                 "owner": "moaazsidat",
                 "repo": "react-native-qrcode-scanner",
-                "stars": 2031,
+                "stars": 2030,
                 "topics": [
                   "barcode",
                   "camera",
@@ -681,8 +681,8 @@
                 "id": 13537369,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-31T21:51:40Z",
-                "open_issues": 29,
+                "last_commit": "2026-11-02T15:41:34Z",
+                "open_issues": 28,
                 "owner": "Shane32",
                 "repo": "QRCoder",
                 "stars": 5175,
@@ -777,11 +777,11 @@
                 "id": 6418813,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-02-05T07:02:55Z",
+                "last_commit": "2026-11-02T13:03:24Z",
                 "open_issues": 14,
                 "owner": "endroid",
                 "repo": "qr-code",
-                "stars": 4818,
+                "stars": 4817,
                 "topics": [
                   "data-uri",
                   "factory",
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T18:57:49.627Z",
+    "last_updated": "2026-11-02T22:47:36.938Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome QR code libraries, software and resources",
