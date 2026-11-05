@@ -226,7 +226,7 @@
                 "open_issues": 71,
                 "owner": "fukuchi",
                 "repo": "libqrencode",
-                "stars": 3051,
+                "stars": 3050,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
@@ -254,7 +254,7 @@
                 "open_issues": 13,
                 "owner": "nayuki",
                 "repo": "QR-Code-generator",
-                "stars": 6813,
+                "stars": 6815,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -429,7 +429,7 @@
                 "open_issues": 44,
                 "owner": "zpao",
                 "repo": "qrcode.react",
-                "stars": 4296,
+                "stars": 4295,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
@@ -685,7 +685,7 @@
                 "open_issues": 28,
                 "owner": "Shane32",
                 "repo": "QRCoder",
-                "stars": 5176,
+                "stars": 5177,
                 "topics": [
                   "barcode",
                   "c-sharp",
@@ -722,7 +722,7 @@
                 "open_issues": 251,
                 "owner": "bingoogolapple",
                 "repo": "BGAQRCode-Android",
-                "stars": 8007,
+                "stars": 8008,
                 "topics": [
                   "qrcode",
                   "qrcode-android",
@@ -781,7 +781,7 @@
                 "open_issues": 14,
                 "owner": "endroid",
                 "repo": "qr-code",
-                "stars": 4820,
+                "stars": 4821,
                 "topics": [
                   "data-uri",
                   "factory",
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T20:50:43.327Z",
+    "last_updated": "2026-11-05T21:06:15.484Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome QR code libraries, software and resources",
