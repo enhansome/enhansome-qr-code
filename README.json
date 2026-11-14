@@ -59,7 +59,7 @@
                 "open_issues": 7,
                 "owner": "claudiodangelis",
                 "repo": "qrcp",
-                "stars": 10524,
+                "stars": 10525,
                 "topics": [
                   "cli",
                   "command-line",
@@ -254,7 +254,7 @@
                 "open_issues": 14,
                 "owner": "nayuki",
                 "repo": "QR-Code-generator",
-                "stars": 6820,
+                "stars": 6823,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -534,7 +534,7 @@
                 "open_issues": 68,
                 "owner": "x-hw",
                 "repo": "amazing-qr",
-                "stars": 10858,
+                "stars": 10860,
                 "topics": [
                   "amazing",
                   "gif",
@@ -834,7 +834,7 @@
                 "id": 8974570,
                 "language": "PHP",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-09-16T01:33:33Z",
+                "last_commit": "2026-11-14T11:30:42Z",
                 "open_issues": 10,
                 "owner": "Bacon",
                 "repo": "BaconQrCode",
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T20:54:47.407Z",
+    "last_updated": "2026-11-14T19:12:21.819Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome QR code libraries, software and resources",
