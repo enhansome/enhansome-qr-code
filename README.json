@@ -55,11 +55,11 @@
                 "id": 117472496,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-01T13:37:29Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-15T17:54:48Z",
+                "open_issues": 8,
                 "owner": "claudiodangelis",
                 "repo": "qrcp",
-                "stars": 10525,
+                "stars": 10526,
                 "topics": [
                   "cli",
                   "command-line",
@@ -254,7 +254,7 @@
                 "open_issues": 14,
                 "owner": "nayuki",
                 "repo": "QR-Code-generator",
-                "stars": 6823,
+                "stars": 6825,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -359,7 +359,7 @@
                 "open_issues": 44,
                 "owner": "airmrcr",
                 "repo": "qrious",
-                "stars": 1618,
+                "stars": 1617,
                 "topics": [
                   "browser",
                   "javascript",
@@ -429,7 +429,7 @@
                 "open_issues": 44,
                 "owner": "zpao",
                 "repo": "qrcode.react",
-                "stars": 4297,
+                "stars": 4296,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
@@ -534,7 +534,7 @@
                 "open_issues": 68,
                 "owner": "x-hw",
                 "repo": "amazing-qr",
-                "stars": 10860,
+                "stars": 10859,
                 "topics": [
                   "amazing",
                   "gif",
@@ -636,7 +636,7 @@
                 "open_issues": 5,
                 "owner": "EFPrefix",
                 "repo": "EFQRCode",
-                "stars": 4754,
+                "stars": 4755,
                 "topics": [
                   "barcode",
                   "barcode-generator",
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T19:12:21.819Z",
+    "last_updated": "2026-11-15T19:48:21.226Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome QR code libraries, software and resources",
