@@ -59,7 +59,7 @@
                 "open_issues": 8,
                 "owner": "claudiodangelis",
                 "repo": "qrcp",
-                "stars": 10530,
+                "stars": 10531,
                 "topics": [
                   "cli",
                   "command-line",
@@ -254,7 +254,7 @@
                 "open_issues": 14,
                 "owner": "nayuki",
                 "repo": "QR-Code-generator",
-                "stars": 6832,
+                "stars": 6836,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -393,7 +393,7 @@
                 "open_issues": 98,
                 "owner": "cozmo",
                 "repo": "jsQR",
-                "stars": 4052,
+                "stars": 4053,
                 "topics": [
                   "qr",
                   "qr-code",
@@ -534,7 +534,7 @@
                 "open_issues": 68,
                 "owner": "x-hw",
                 "repo": "amazing-qr",
-                "stars": 10858,
+                "stars": 10860,
                 "topics": [
                   "amazing",
                   "gif",
@@ -605,7 +605,7 @@
                 "open_issues": 13,
                 "owner": "kingsic",
                 "repo": "SGQRCode",
-                "stars": 1693,
+                "stars": 1692,
                 "topics": [
                   "barcode",
                   "qrcode"
@@ -682,10 +682,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-11-02T15:41:34Z",
-                "open_issues": 28,
+                "open_issues": 29,
                 "owner": "Shane32",
                 "repo": "QRCoder",
-                "stars": 5180,
+                "stars": 5181,
                 "topics": [
                   "barcode",
                   "c-sharp",
@@ -748,7 +748,7 @@
                 "open_issues": 21,
                 "owner": "sumimakito",
                 "repo": "AwesomeQRCode",
-                "stars": 1913,
+                "stars": 1914,
                 "topics": [
                   "qr-code",
                   "qr-generator",
@@ -781,7 +781,7 @@
                 "open_issues": 13,
                 "owner": "endroid",
                 "repo": "qr-code",
-                "stars": 4823,
+                "stars": 4824,
                 "topics": [
                   "data-uri",
                   "factory",
@@ -859,7 +859,7 @@
                 "open_issues": 80,
                 "owner": "khanamiryan",
                 "repo": "php-qrcode-detector-decoder",
-                "stars": 1415,
+                "stars": 1414,
                 "topics": [
                   "decode-qr-codes",
                   "decoder",
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T22:26:29.113Z",
+    "last_updated": "2026-11-18T21:59:58.807Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome QR code libraries, software and resources",
