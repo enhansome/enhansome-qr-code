@@ -59,7 +59,7 @@
                 "open_issues": 8,
                 "owner": "claudiodangelis",
                 "repo": "qrcp",
-                "stars": 10530,
+                "stars": 10531,
                 "topics": [
                   "cli",
                   "command-line",
@@ -226,7 +226,7 @@
                 "open_issues": 71,
                 "owner": "fukuchi",
                 "repo": "libqrencode",
-                "stars": 3053,
+                "stars": 3052,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
@@ -254,7 +254,7 @@
                 "open_issues": 14,
                 "owner": "nayuki",
                 "repo": "QR-Code-generator",
-                "stars": 6836,
+                "stars": 6838,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -534,7 +534,7 @@
                 "open_issues": 68,
                 "owner": "x-hw",
                 "repo": "amazing-qr",
-                "stars": 10861,
+                "stars": 10859,
                 "topics": [
                   "amazing",
                   "gif",
@@ -636,7 +636,7 @@
                 "open_issues": 5,
                 "owner": "EFPrefix",
                 "repo": "EFQRCode",
-                "stars": 4755,
+                "stars": 4756,
                 "topics": [
                   "barcode",
                   "barcode-generator",
@@ -781,7 +781,7 @@
                 "open_issues": 13,
                 "owner": "endroid",
                 "repo": "qr-code",
-                "stars": 4823,
+                "stars": 4825,
                 "topics": [
                   "data-uri",
                   "factory",
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T22:10:40.139Z",
+    "last_updated": "2026-11-20T21:50:44.569Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome QR code libraries, software and resources",
@@ -888,7 +888,7 @@
       "language": null,
       "license": "CC-BY-SA-4.0",
       "last_commit": "2026-02-13T15:39:11Z",
-      "open_issues": 33,
+      "open_issues": 32,
       "owner": "make-github-pseudonymous-again",
       "repo": "awesome-qr-code",
       "stars": 156,
