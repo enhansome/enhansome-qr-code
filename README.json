@@ -59,7 +59,7 @@
                 "open_issues": 9,
                 "owner": "claudiodangelis",
                 "repo": "qrcp",
-                "stars": 10534,
+                "stars": 10535,
                 "topics": [
                   "cli",
                   "command-line",
@@ -254,7 +254,7 @@
                 "open_issues": 14,
                 "owner": "nayuki",
                 "repo": "QR-Code-generator",
-                "stars": 6842,
+                "stars": 6845,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -393,7 +393,7 @@
                 "open_issues": 98,
                 "owner": "cozmo",
                 "repo": "jsQR",
-                "stars": 4050,
+                "stars": 4049,
                 "topics": [
                   "qr",
                   "qr-code",
@@ -534,7 +534,7 @@
                 "open_issues": 68,
                 "owner": "x-hw",
                 "repo": "amazing-qr",
-                "stars": 10863,
+                "stars": 10864,
                 "topics": [
                   "amazing",
                   "gif",
@@ -605,7 +605,7 @@
                 "open_issues": 13,
                 "owner": "kingsic",
                 "repo": "SGQRCode",
-                "stars": 1691,
+                "stars": 1690,
                 "topics": [
                   "barcode",
                   "qrcode"
@@ -682,7 +682,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-11-19T18:10:30Z",
-                "open_issues": 27,
+                "open_issues": 28,
                 "owner": "Shane32",
                 "repo": "QRCoder",
                 "stars": 5183,
@@ -722,7 +722,7 @@
                 "open_issues": 251,
                 "owner": "bingoogolapple",
                 "repo": "BGAQRCode-Android",
-                "stars": 8004,
+                "stars": 8003,
                 "topics": [
                   "qrcode",
                   "qrcode-android",
@@ -781,7 +781,7 @@
                 "open_issues": 0,
                 "owner": "endroid",
                 "repo": "qr-code",
-                "stars": 4826,
+                "stars": 4825,
                 "topics": [
                   "data-uri",
                   "factory",
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T01:41:40.911Z",
+    "last_updated": "2026-11-24T23:29:29.807Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome QR code libraries, software and resources",
