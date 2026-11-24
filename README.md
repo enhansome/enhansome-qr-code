@@ -25,7 +25,7 @@ A curated list of awesome QR code libraries, software and resources.
 
 ### File Transfer
 
-* [qrcp](https://github.com/claudiodangelis/qrcp) ⭐ 10,533 | 🐛 9 | 🌐 Go | 📅 2026-11-22 - Transfer files over Wi-Fi from your computer to a mobile device by scanning a QR code without leaving the terminal.
+* [qrcp](https://github.com/claudiodangelis/qrcp) ⭐ 10,534 | 🐛 9 | 🌐 Go | 📅 2026-11-22 - Transfer files over Wi-Fi from your computer to a mobile device by scanning a QR code without leaving the terminal.
 * [qr-filetransfer](https://github.com/sdushantha/qr-filetransfer) ⭐ 1,031 | 🐛 5 | 🌐 Python | 📅 2024-04-10 - Transfer files over Wi-Fi between your computer and your smartphone from the terminal.
 
 ## CLI
@@ -47,7 +47,7 @@ that the library allows to generate QR codes.
 
 ### C, C++, JavaScript, Python, Java, Rust
 
-* [QR-Code-generator `W`](https://github.com/nayuki/QR-Code-generator) ⭐ 6,841 | 🐛 14 | 🌐 Java | 📅 2026-11-19 - High-quality QR code generator library in Java, TypeScript/JavaScript, Python, C++, C, Rust.
+* [QR-Code-generator `W`](https://github.com/nayuki/QR-Code-generator) ⭐ 6,842 | 🐛 14 | 🌐 Java | 📅 2026-11-19 - High-quality QR code generator library in Java, TypeScript/JavaScript, Python, C++, C, Rust.
 
 ### Java
 
@@ -60,11 +60,11 @@ that the library allows to generate QR codes.
 
 ### TypeScript
 
-* [jsQR `R`](https://github.com/cozmo/jsQR) ⭐ 4,052 | 🐛 98 | 🌐 TypeScript | 📅 2026-05-15 - A pure JavaScript QR code reading library.
+* [jsQR `R`](https://github.com/cozmo/jsQR) ⭐ 4,050 | 🐛 98 | 🌐 TypeScript | 📅 2026-05-15 - A pure JavaScript QR code reading library.
 
 ### React
 
-* [qrcode.react `W`](https://github.com/zpao/qrcode.react) ⭐ 4,296 | 🐛 44 | 🌐 TypeScript | 📅 2026-11-19 - A `<QRCode/>` component for use with React.
+* [qrcode.react `W`](https://github.com/zpao/qrcode.react) ⭐ 4,295 | 🐛 44 | 🌐 TypeScript | 📅 2026-11-19 - A `<QRCode/>` component for use with React.
 
 ### React Native
 
@@ -76,11 +76,11 @@ that the library allows to generate QR codes.
 
 ### Python
 
-* [sylnsfar/qrcode `W`](https://github.com/sylnsfar/qrcode) ⭐ 10,861 | 🐛 68 | 🌐 Python | 📅 2026-09-17 - Artistic QR code in Python (can produce GIFs).
+* [sylnsfar/qrcode `W`](https://github.com/sylnsfar/qrcode) ⭐ 10,863 | 🐛 68 | 🌐 Python | 📅 2026-09-17 - Artistic QR code in Python (can produce GIFs).
 
 ### Ruby
 
-* [rqrcode `W`](https://github.com/whomwah/rqrcode) ⭐ 2,002 | 🐛 1 | 🌐 Ruby | 📅 2026-06-01 - A neat Ruby QR code generator exporting to `svg`, `png` and `ansi` with configurable size, color and other attributes.
+* [rqrcode `W`](https://github.com/whomwah/rqrcode) ⭐ 2,001 | 🐛 1 | 🌐 Ruby | 📅 2026-06-01 - A neat Ruby QR code generator exporting to `svg`, `png` and `ansi` with configurable size, color and other attributes.
 
 ### Objective-C
 
@@ -88,27 +88,27 @@ that the library allows to generate QR codes.
 
 ### Swift
 
-* [EFQRCode `W`](https://github.com/EFPrefix/EFQRCode) ⭐ 4,755 | 🐛 5 | 🌐 Swift | 📅 2026-03-03 - A better way to operate QR code in Swift, support iOS, macOS, watchOS and tvOS.
+* [EFQRCode `W`](https://github.com/EFPrefix/EFQRCode) ⭐ 4,756 | 🐛 5 | 🌐 Swift | 📅 2026-03-03 - A better way to operate QR code in Swift, support iOS, macOS, watchOS and tvOS.
 
 ### C\#
 
-* [QRCoder `W`](https://github.com/codebude/QRCoder) ⭐ 5,182 | 🐛 27 | 🌐 C# | 📅 2026-11-19 - A pure C# Open Source QR code implementation.
+* [QRCoder `W`](https://github.com/codebude/QRCoder) ⭐ 5,183 | 🐛 27 | 🌐 C# | 📅 2026-11-19 - A pure C# Open Source QR code implementation.
 
 ### Android
 
-* [BGAQRCode-Android `RW`](https://github.com/bingoogolapple/BGAQRCode-Android) ⭐ 8,003 | 🐛 251 | 🌐 C | 📅 2026-07-11 - QR code reader and generator written in C.
+* [BGAQRCode-Android `RW`](https://github.com/bingoogolapple/BGAQRCode-Android) ⭐ 8,004 | 🐛 251 | 🌐 C | 📅 2026-07-11 - QR code reader and generator written in C.
 * [AwesomeQRCode (Kotlin) `W`](https://github.com/SumiMakito/AwesomeQRCode) ⭐ 1,913 | 🐛 21 | 🌐 Kotlin | 📅 2023-12-02 - An awesome QR code generator for Android (can produce GIFs).
 
 ### PHP
 
-* [endroid/qr-code `W`](https://github.com/endroid/qr-code) ⭐ 4,825 | 🐛 0 | 🌐 PHP | 📅 2026-11-03 - QR code generator.
+* [endroid/qr-code `W`](https://github.com/endroid/qr-code) ⭐ 4,826 | 🐛 0 | 🌐 PHP | 📅 2026-11-03 - QR code generator.
 * [simple-qrcode `W`](https://github.com/SimpleSoftwareIO/simple-qrcode) ⭐ 2,893 | 🐛 59 | 🌐 PHP | 📅 2024-08-12 - An easy-to-use PHP QR code generator.
 * [BaconQRCode `W`](https://github.com/Bacon/BaconQRCode) ⭐ 2,112 | 🐛 10 | 🌐 PHP | 📅 2026-11-14 - QR code generator for PHP.
 * [php-qrcode-detector-decoder `R`](https://github.com/khanamiryan/php-qrcode-detector-decoder) ⭐ 1,413 | 🐛 80 | 🌐 PHP | 📅 2025-07-10 - PHP library to detect and decode QR codes.
 
 ## Resources
 
-* [zxing](https://github.com/zxing/zxing/wiki/Barcode-Contents) ⭐ 34,217 | 🐛 0 | 🌐 Java | 📅 2026-11-21 - QR code payload format catalog.
+* [zxing](https://github.com/zxing/zxing/wiki/Barcode-Contents) ⭐ 34,218 | 🐛 2 | 🌐 Java | 📅 2026-11-23 - QR code payload format catalog.
 
 ## Contributing
 
@@ -120,4 +120,4 @@ If you have any question about this opinionated list, do not hesitate to open an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
