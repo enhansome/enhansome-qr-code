@@ -59,7 +59,7 @@
                 "open_issues": 9,
                 "owner": "claudiodangelis",
                 "repo": "qrcp",
-                "stars": 10535,
+                "stars": 10537,
                 "topics": [
                   "cli",
                   "command-line",
@@ -226,7 +226,7 @@
                 "open_issues": 71,
                 "owner": "fukuchi",
                 "repo": "libqrencode",
-                "stars": 3055,
+                "stars": 3054,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
@@ -534,7 +534,7 @@
                 "open_issues": 68,
                 "owner": "x-hw",
                 "repo": "amazing-qr",
-                "stars": 10864,
+                "stars": 10865,
                 "topics": [
                   "amazing",
                   "gif",
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T23:29:29.807Z",
+    "last_updated": "2026-11-25T23:07:26.204Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome QR code libraries, software and resources",
