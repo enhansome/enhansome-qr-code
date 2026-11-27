@@ -254,7 +254,7 @@
                 "open_issues": 14,
                 "owner": "nayuki",
                 "repo": "QR-Code-generator",
-                "stars": 6847,
+                "stars": 6849,
                 "topics": [
                   "c",
                   "c-plus-plus",
@@ -326,7 +326,7 @@
                 "open_issues": 193,
                 "owner": "schmich",
                 "repo": "instascan",
-                "stars": 3018,
+                "stars": 3017,
                 "topics": [
                   "browser",
                   "camera",
@@ -685,7 +685,7 @@
                 "open_issues": 28,
                 "owner": "Shane32",
                 "repo": "QRCoder",
-                "stars": 5183,
+                "stars": 5184,
                 "topics": [
                   "barcode",
                   "c-sharp",
@@ -781,7 +781,7 @@
                 "open_issues": 0,
                 "owner": "endroid",
                 "repo": "qr-code",
-                "stars": 4825,
+                "stars": 4826,
                 "topics": [
                   "data-uri",
                   "factory",
@@ -838,7 +838,7 @@
                 "open_issues": 10,
                 "owner": "Bacon",
                 "repo": "BaconQrCode",
-                "stars": 2112,
+                "stars": 2114,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:34:16.677Z"
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T23:01:09.164Z",
+    "last_updated": "2026-11-27T22:44:04.754Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome QR code libraries, software and resources",
